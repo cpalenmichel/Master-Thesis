@@ -1,0 +1,955 @@
+(NOMADV :ORTH "abomination"
+        :ADV "abominably"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV :TEMP T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "abuse"
+        :ADV "abusively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "accuracy"
+        :ADV "accurately"
+        :FEATURES ((EVAL-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "addition"
+        :ADV "additionally"
+        :FEATURES ((META-ADV :CONJ T))
+        :STRING "in addition"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "adequacy"
+        :ADV "adequately"
+        :FEATURES ((EVAL-ADV)
+                   (DEGREE-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "advantage"
+        :ADV "advantageously"
+        :FEATURES ((EVAL-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "aggressiveness"
+        :ADV "aggressively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "agility"
+        :ADV "agilely"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "alternative"
+        :ADV "alternatively"
+        :FEATURES ((META-ADV :EPISTEMIC T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "amateur"
+        :ADV "amateurishly"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "ambiguity"
+        :ADV "ambiguously"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "anomaly"
+        :ADV "anomalously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "anonymity"
+        :ADV "anonymously"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "apathy"
+        :ADV "apathetically"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "appropriateness"
+        :ADV "appropriately"
+        :FEATURES ((GRADABLE)
+                   (META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "authenticity"
+        :ADV "authentically"
+        :FEATURES ((MANNER-ADV)
+                   (DEGREE-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "bitterness"
+        :ADV "bitter"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "blanket"
+            :ADV "broadly"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "blockbuster"
+            :ADV "extremely"
+            :FEATURES ((DEGREE-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "brutality"
+        :ADV "brutally"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE)
+                   (DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "capriciousness"
+        :ADV "capriciously"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "carbon"
+            :ADV "exactly"
+            :FEATURES ((DEGREE-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "case"
+            :ADV "consequently"
+            :STRING "in case"
+            :FEATURES ((META-ADV :CONJ T))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "catastrophe"
+        :ADV "catastrophically"
+        :FEATURES ((DEGREE-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "cautiousness"
+        :ADV "cautiously"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "chaos"
+        :ADV "chaotically"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "cleanliness"
+        :ADV "clean"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "coherence"
+        :ADV "coherently"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "coincidence"
+        :ADV "coincidentally"
+        :FEATURES ((TEMPORAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "comfort"
+        :ADV "comfortably"
+        :FEATURES ((DEGREE-ADV)
+                   (GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "comparability"
+        :ADV "comparably"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "compassion"
+        :ADV "compassionately"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "compatibility"
+        :ADV "compatibly"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "competence"
+        :ADV "competently"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "competency"
+        :ADV "competently"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "competitiveness"
+        :ADV "competitively"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "complacency"
+        :ADV "complacently"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "completeness"
+        :ADV "completely"
+        :FEATURES ((DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "comprehensiveness"
+        :ADV "comprehensively"
+        :FEATURES ((DEGREE-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "concision"
+        :ADV "concisely"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "confidentiality"
+        :ADV "confidentially"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "consciousness"
+        :ADV "consciously"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "consequence"
+        :ADV "consequently"
+        :FEATURES ((META-ADV :CONJ T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "consequence"
+        :ADV "consequently"
+        :STRING "in consequence"
+        :FEATURES ((META-ADV :CONJ T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "contract"
+        :ADV "contractually"
+        :FEATURES ((META-ADV :VIEWPOINT T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "contrary"
+        :ADV "contrarily"
+        :STRING ("on the contrary" "to the contrary")
+        :FEATURES ((META-ADV :CONJ T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "contrast"
+        :ADV "contrastingly"
+        :STRING ("by contrast" "in contrast")
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "controversy"
+        :ADV "controversially"
+        :FEATURES ((META-ADV :ATTITUDE T)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "convenience"
+        :ADV "conveniently"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "courage"
+        :ADV "courageously"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "creativity"
+        :ADV "creatively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "criminality"
+        :ADV "criminally"
+        :FEATURES ((DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "curb"
+            :ADV "externally"
+            :FEATURES ((LOC&DIR-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "danger"
+        :ADV "dangerously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "demonstrativeness"
+        :ADV "demonstratively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "diligence"
+        :ADV "diligently"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "drama"
+        :ADV "dramatically"
+        :FEATURES ((DEGREE-ADV)
+                   (MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "dullness"
+        :ADV "dully"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "dynamism"
+        :ADV "dynamically"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "effectiveness"
+        :ADV "effectively"
+        :FEATURES ((GRADABLE)
+                   (META-ADV :EPISTEMIC T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "efficiency"
+        :ADV "efficiently"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "eloquence"
+        :ADV "eloquently"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "enigma"
+        :ADV "enigmatically"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "evidence"
+        :ADV "evidently"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "excellence"
+        :ADV "excellently"
+        :FEATURES ((EVAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "excess"
+        :ADV "excessively"
+        :FEATURES ((DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "exclusion"
+        :ADV "exclusively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "expense"
+        :ADV "expensively"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "fact"
+            :ADV "actually"
+            :STRING "in fact"
+            :FEATURES ((META-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "fairness"
+        :ADV "fairly"
+        :FEATURES ((GRADABLE)
+                   (EVAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "fatality"
+        :ADV "fatally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "feasibility"
+        :ADV "feasible"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "flatness"
+        :ADV "flat"
+        :FEATURES ((MANNER-ADV)
+                   (TEMPORAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "flexibility"
+        :ADV "flexibly"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "formality"
+        :ADV "formally"
+        :FEATURES ((META-ADV)
+                   (GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "frequency"
+        :ADV "frequently"
+        :FEATURES ((GRADABLE)
+                   (TEMPORAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "frugality"
+        :ADV "frugally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "fundamentalist"
+            :ADV "conservatively"
+            :FEATURES ((MANNER-ADV)
+                       (GRADABLE))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "futility"
+        :ADV "futilely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "generalization"
+        :ADV "generically"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "habit"
+        :ADV "habitually"
+        :FEATURES ((TEMPORAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "hand"
+            :ADV "however"
+            :STRING ("on one hand" "on the other hand")
+            :FEATURES ((DEGREE-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "hazard"
+        :ADV "hazardously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "honor"
+        :ADV "honorably"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "hospitality"
+        :ADV "hospitably"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "hostility"
+        :ADV "hostilely"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "humaneness"
+        :ADV "humanely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "humanity"
+        :ADV "humanely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "humor"
+        :ADV "humorously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "ideology"
+        :ADV "ideologically"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "idiocy"
+        :ADV "idiotically"
+        :FEATURES ((EVAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "illegality"
+        :ADV "illegally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "illogic"
+        :ADV "illogically"
+        :FEATURES ((EVAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "immaturity"
+        :ADV "immaturely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "immorality"
+        :ADV "immorally"
+        :FEATURES ((EVAL-ADV)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "impassiveness"
+        :ADV "impassively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "improbability"
+        :ADV "improbably"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "in vitro"
+            :ADV "externally"
+            :FEATURES ((LOC&DIR-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "incompatibility"
+        :ADV "incompatibly"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "inconsistency"
+        :ADV "inconsistently"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "ineffectiveness"
+        :ADV "ineffectively"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "inefficiency"
+        :ADV "inefficiently"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "inevitability"
+        :ADV "inevitably"
+        :FEATURES ((META-ADV :EPISTEMIC T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "ingenuity"
+        :ADV "ingenuously"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "insensitivity"
+        :ADV "insensitively"
+        :FEATURES ((EVAL-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "internationalization"
+        :ADV "internationally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "inventiveness"
+        :ADV "inventively"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "irony"
+        :ADV "ironically"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "justification"
+        :ADV "justifiably"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "killer"
+            :ADV "immensely"
+            :FEATURES ((MANNER-ADV)
+                       (DEGREE-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "kind"
+            :ADV "approximately"
+            :STRING "kind of"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "legality"
+        :ADV "legally"
+        :FEATURES ((MANNER-ADV)
+                   (META-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "legitimacy"
+        :ADV "legitimately"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "length"
+        :ADV "long"
+        :FEATURES ((TEMPORAL-ADV)
+                   (GRADABLE :BOTH T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "licentiousness"
+        :ADV "licentiously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "light"
+            :ADV "consequently"
+            :STRING "in light of"
+            :FEATURES ((META-ADV :CONJ T))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "likelihood"
+        :ADV "likely"
+        :FEATURES ((META-ADV :EPISTEMIC T)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "luxury"
+        :ADV "luxurious"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "magic"
+        :ADV "magically"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "malice"
+        :ADV "maliciously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "matter"
+            :ADV "regardless"
+            :FEATURES ((META-ADV :CONJ T))
+            :STRING "no matter"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "miracle"
+        :ADV "miraculously"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "mystery"
+        :ADV "mysteriously"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "neighborhood"
+            :ADV "approximately"
+            :STRING "in the neighborhood of"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "nostalgia"
+        :ADV "nostalgically"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "objectivity"
+        :ADV "objectively"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "obscenity"
+        :ADV "obscenely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "obscurity"
+        :ADV "obscurely"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "open"
+        :ADV "openly"
+        :STRING "in the open"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "panic"
+            :ADV "frantically"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "paper"
+            :ADV "officially"
+            :FEATURES ((META-ADV :VIEWPOINT T))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "paradox"
+        :ADV "paradoxically"
+        :FEATURES ((META-ADV :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "particular"
+        :ADV "particularly"
+        :STRING "in particular"
+        :FEATURES ((MANNER-ADV)
+                   (DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "passion"
+        :ADV "passionately"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "passivity"
+        :ADV "passively"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "peril"
+        :ADV "perilously"
+        :FEATURES ((MANNER-ADV)
+                   (DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "permanence"
+        :ADV "permanently"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "persistence"
+        :ADV "persistently"
+        :FEATURES ((MANNER-ADV :TEMP T)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "perversity"
+        :ADV "perversely"
+        :FEATURES ((EVAL-ADV)
+                   (GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "place"
+	    :ADV "originally"
+	    :FEATURES ((META-ADV :CONJ T)
+		       (TEMPORAL-ADV))
+	    :STRING ("in the first place")
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "pleasure"
+        :ADV "pleasurably"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "point"
+            :ADV "then"
+            :STRING ("at one point" "at another point")
+            :FEATURES ((TEMPORAL-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "possibility"
+        :ADV "possibly"
+        :FEATURES ((META-ADV :EPISTEMIC T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "potential"
+        :ADV "potentially"
+        :FEATURES ((META-ADV :EPISTEMIC T))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "power"
+        :ADV "powerful"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "pragmatism"
+        :ADV "pragmatically"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE)
+                   (META-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "precision"
+        :ADV "precisely"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "predictability"
+        :ADV "predictably"
+        :FEATURES ((META-ADV :EPISTEMIC T
+                             :ATTITUDE T))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "premium"
+            :ADV "luxurious"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "principle"
+            :ADV "theoretically"
+            :STRING "in principle"
+            :FEATURES ((MANNER-ADV)
+                       (META-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "probability"
+        :ADV "probably"
+        :FEATURES ((META-ADV :EPISTEMIC T))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "problem"
+            :ADV "problematically"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "profitability"
+        :ADV "profitably"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "public"
+        :ADV "publicly"
+        :STRING "in public"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "reaction"
+            :ADV "consequently"
+            :STRING "in reaction"
+            :FEATURES ((META-ADV :CONJ T))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "receptivity"
+        :ADV "receptively"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "reciprocity"
+        :ADV "reciprocally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "record"
+            :ADV "immensely"
+            :FEATURES ((MANNER-ADV)
+                       (DEGREE-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "regimentation"
+        :ADV "regimentally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "respectability"
+        :ADV "respectably"
+        :FEATURES ((GRADABLE)
+                   (EVAL-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "result"
+            :ADV "consequently"
+            :STRING "as a result"
+            :FEATURES ((META-ADV :CONJ T))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "rigor"
+        :ADV "rigorously"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "romance"
+        :ADV "romantically"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "safety"
+        :ADV "safely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "scandal"
+        :ADV "scandalously"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "scene"
+            :ADV "there"
+            :STRING "on the scene"
+            :FEATURES ((LOC&DIR-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "secrecy"
+        :ADV "secretively"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "sensationalism"
+        :ADV "sensationally"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "sensuality"
+        :ADV "sensually"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "sentimentality"
+        :ADV "sentimentally"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "seriousness"
+        :ADV "seriously"
+        :FEATURES ((DEGREE-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "severity"
+        :ADV "severely"
+        :FEATURES ((GRADABLE)
+                   (DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "silence"
+        :ADV "silently"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "sort"
+            :ADV "approximately"
+            :STRING "sort of"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "standpoint"
+            :ADV "technically"
+            :STRING "from a standpoint"
+            :FEATURES ((META-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "starter"
+            :ADV "foremost"
+            :STRING "for starters"
+            :FEATURES ((META-ADV :CONJ T
+                                 :ATTITUDE T))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "strangeness"
+        :ADV "strangely"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "subtlety"
+        :ADV "subtly"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "surprise"
+        :ADV "surprisingly"
+        :FEATURES ((META-ADV :ATTITUDE T)
+                   (DEGREE-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "tumult"
+        :ADV "tumultuously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "tune"
+            :ADV "approximately"
+            :STRING "to the tune of"
+            :FEATURES ((GRADABLE)
+                       (MANNER-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "turbulence"
+        :ADV "turbulently"
+        :FEATURES ((MANNER-ADV)
+                   (GRADABLE))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "valor"
+        :ADV "valorously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "vengeance"
+            :ADV "forcefully"
+            :STRING "with a vengeance"
+            :FEATURES ((MANNER-ADV)
+                       (GRADABLE))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "viability"
+        :ADV "viably"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "vigor"
+        :ADV "vigorously"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "violence"
+        :ADV "violently"
+        :FEATURES ((DEGREE-ADV)
+                   (GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "visibility"
+            :ADV "publicly"
+            :FEATURES ((MANNER-ADV)
+                       (GRADABLE))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "vitality"
+        :ADV "vitally"
+        :FEATURES ((DEGREE-ADV)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "vulnerability"
+        :ADV "vulnerably"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "wake"
+            :ADV "then"
+            :STRING ("in the wake of" "in POSS wake")
+            :FEATURES ((TEMPORAL-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "way"
+            :ADV "currently"
+            :STRING "under way"
+            :FEATURES ((TEMPORAL-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "way"
+            :ADV "far"
+            :FEATURES ((DEGREE-ADV)
+                       (GRADABLE))
+            :SEMI-AUTOMATIC T)
+(NOMADVLIKE :ORTH "way"
+            :ADV "backward"
+            :STRING "the other way"
+            :FEATURES ((LOC&DIR-ADV))
+            :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "whimsy"
+        :ADV "whimsically"
+        :FEATURES ((MANNER-ADV))
+        :SEMI-AUTOMATIC T)
+(NOMADV :ORTH "wisdom"
+        :ADV "wisely"
+        :FEATURES ((GRADABLE)
+                   (MANNER-ADV))
+        :SEMI-AUTOMATIC T)

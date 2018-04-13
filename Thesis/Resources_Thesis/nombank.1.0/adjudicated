@@ -1,0 +1,700 @@
+wsj/00/wsj_0083.mrg 16 9 acceleration 01 9:0-rel 10:0,11:1-ARG1
+wsj/01/wsj_0115.mrg 2 24 acceleration 01 24:0-rel 25:1-ARG1
+wsj/12/wsj_1294.mrg 4 9 acceleration 01 8:0-ARGM-MNR 9:0-rel 10:1-ARG1 13:1-ARGM-TMP
+wsj/13/wsj_1374.mrg 17 4 acceleration 01 3:0-ARG1 4:0-rel
+wsj/19/wsj_1988.mrg 4 27 acceleration 01 0:3*18:0*23:0-ARG0 25:0-Support 27:0-rel 28:1-ARG1
+wsj/19/wsj_1996.mrg 5 20 acceleration 01 10:1-ARG1 13:0,15:0,17:0,18:0-Support 19:0-ARGM-MNR 20:0-rel
+wsj/20/wsj_2056.mrg 7 14 acceleration 01 14:0-rel 15:1-ARG1
+wsj/01/wsj_0114.mrg 24 32 accomplishment 01 31:0-ARG0 32:0-ARG1-REF 32:0-rel
+wsj/02/wsj_0267.mrg 32 9 accomplishment 01 6:0-ARG0 7:0,8:0-Support 9:0-ARG1-REF 9:0-rel
+wsj/02/wsj_0267.mrg 65 15 accomplishment 01 12:0-ARG0 15:0-ARG1-REF 15:0-rel
+wsj/04/wsj_0456.mrg 11 14 accomplishment 01 12:0-ARG0 13:0-ARGM-LOC 14:0-ARG1-REF 14:0-rel
+wsj/14/wsj_1457.mrg 28 11 accomplishment 01 11:0-ARG1-REF 11:0-rel 12:1-ARG0
+wsj/14/wsj_1499.mrg 36 18 accomplishment 01 17:0-ARG0 18:0-ARG1-REF 18:0-rel
+wsj/19/wsj_1935.mrg 52 15 accomplishment 01 15:0-ARG1-REF 15:0-rel 16:1-ARG0
+wsj/04/wsj_0439.mrg 4 14 accumulation 01 1:1-ARG0 13:0-ARGM-MNR 14:0-rel 15:1-ARG1 19:2-ARGM-TMP
+wsj/04/wsj_0465.mrg 7 6 accumulation 01 6:0-rel 7:1-ARG1
+wsj/13/wsj_1319.mrg 31 21 accumulation 01 20:0-ARGM-MNR 21:0-rel 22:1-ARG1
+wsj/23/wsj_2397.mrg 42 9 accumulation 01 9:0-rel 10:1-ARG1
+wsj/00/wsj_0095.mrg 5 2 assumption 01 2:0-rel 4:1-ARG1
+wsj/01/wsj_0130.mrg 9 3 assumption 01 0:1-ARG0 1:0-Support 3:0-rel 4:1-ARG1
+wsj/03/wsj_0304.mrg 21 20 assumption 01 13:1-ARG0 16:0,17:0-Support 18:0-ARGM-MNR 19:0-ARG1 20:0-rel
+wsj/03/wsj_0351.mrg 56 37 assumption 01 34:0,35:0,36:0-ARG1 37:0-rel
+wsj/05/wsj_0524.mrg 22 3 assumption 01 3:0-rel 8:1-ARG1
+wsj/05/wsj_0568.mrg 16 21 assumption 01 14:1-ARG0 16:0,19:0-Support 21:0-rel 22:1-ARG1
+wsj/06/wsj_0671.mrg 72 34 assumption 01 31:0,32:0,33:0-ARG1 34:0-rel
+wsj/06/wsj_0692.mrg 50 18 assumption 01 18:0-rel 19:0-Support 20:1-ARG0
+wsj/07/wsj_0755.mrg 23 16 assumption 01 16:0-rel 17:1-ARG1
+wsj/07/wsj_0766.mrg 81 6 assumption 01 0:2-ARG0 4:0-Support 6:0-rel
+wsj/09/wsj_0992.mrg 4 10 assumption 01 10:0-rel 11:2-ARG1
+wsj/11/wsj_1101.mrg 12 9 assumption 01 9:0-rel 10:1-ARG1
+wsj/11/wsj_1155.mrg 1 44 assumption 01 44:0-rel 45:1-ARG1
+wsj/12/wsj_1213.mrg 79 15 assumption 01 12:0,13:0,14:0-ARG1 15:0-rel
+wsj/13/wsj_1322.mrg 62 15 assumption 01 12:0,13:0,14:0-ARG1 15:0-rel
+wsj/14/wsj_1416.mrg 7 18 assumption 01 3:2-ARG0 12:0,13:0-Support 17:0-ARG1 18:0-rel
+wsj/16/wsj_1624.mrg 76 15 assumption 01 4:0,5:0,6:0-ARG1 7:0,10:0-Support 15:0-rel
+wsj/16/wsj_1695.mrg 33 7 assumption 01 7:0-rel 8:1-ARG1
+wsj/16/wsj_1695.mrg 8 5 assumption 01 0:1-ARG0 2:0,3:0-Support 5:0-rel
+wsj/18/wsj_1849.mrg 22 1 assumption 01 0:0-ARG0 1:0-rel 3:2-ARG1
+wsj/19/wsj_1932.mrg 0 9 assumption 01 9:0-rel 10:1-ARG1
+wsj/20/wsj_2011.mrg 0 32 assumption 01 32:0-rel 33:1-ARG1
+wsj/20/wsj_2032.mrg 4 11 assumption 01 3:1-ARG0 8:0-Support 10:0-ARGM-MNR 11:0-rel
+wsj/20/wsj_2043.mrg 55 15 assumption 01 12:0,13:0,14:0-ARG1 15:0-rel
+wsj/21/wsj_2125.mrg 6 26 assumption 01 25:0-ARGM-ADV 26:0-rel
+wsj/22/wsj_2239.mrg 76 16 assumption 01 13:0,14:0,15:0-ARG1 16:0-rel
+wsj/24/wsj_2428.mrg 75 30 assumption 01 27:0,28:0,29:0-ARG1 30:0-rel
+wsj/01/wsj_0131.mrg 0 28 assumption 02 0:2-ARG0 9:0,21:0-Support 28:0-rel 29:1-ARG1
+wsj/05/wsj_0504.mrg 20 8 assumption 02 8:0-rel 9:1-ARG1
+wsj/07/wsj_0786.mrg 1 4 assumption 02 4:0-rel 5:1-ARG1
+wsj/09/wsj_0930.mrg 1 27 assumption 02 15:1-ARG0 17:0,20:0,22:0,23:0-Support 27:0-rel 28:1-ARG1
+wsj/15/wsj_1553.mrg 0 24 assumption 02 4:1-ARG0 9:0,18:0-Support 24:0-rel 25:1-ARG1
+wsj/17/wsj_1720.mrg 5 7 assumption 02 7:0-rel 8:1-ARG1 16:1-ARG0
+wsj/17/wsj_1795.mrg 8 42 assumption 02 42:0-rel 43:1-ARG1 46:1-ARG0
+wsj/18/wsj_1859.mrg 0 28 assumption 02 28:0-rel 29:1-ARG1
+wsj/22/wsj_2247.mrg 0 25 assumption 02 5:1*7:0-ARG0 9:0,23:0-Support 25:0-rel 26:1-ARG1
+wsj/23/wsj_2303.mrg 1 8 assumption 02 8:0-rel 9:1-ARG1
+wsj/00/wsj_0043.mrg 37 10 attitude 01 2:1-ARG0 3:0,5:0-Support 4:1-ARG2 7:0,8:0,9:0-ARG1 10:0-rel
+wsj/01/wsj_0192.mrg 49 13 attitude 01 11:1-ARG1 13:0-rel 14:1-ARG0
+wsj/02/wsj_0242.mrg 25 26 attitude 01 17:1-ARG0 20:0,21:0,22:0-Support 24:0-ARGM-TMP 25:0-ARG1 26:0-rel
+wsj/02/wsj_0275.mrg 24 1 attitude 01 1:0-rel 2:1-ARG0
+wsj/03/wsj_0335.mrg 1 38 attitude 01 37:0-ARG1 38:0-rel 39:1-ARG0
+wsj/03/wsj_0361.mrg 12 5 attitude 01 4:0-ARG1 5:0-rel
+wsj/03/wsj_0374.mrg 27 12 attitude 01 0:2-ARG0 9:0-Support 11:0-ARG1 12:0-rel
+wsj/05/wsj_0526.mrg 10 19 attitude 01 19:0-rel 20:1-ARG0
+wsj/05/wsj_0530.mrg 1 25 attitude 01 15:1-ARG0 21:0-Support 24:0-ARG1 25:0-rel
+wsj/05/wsj_0583.mrg 11 29 attitude 01 25:1-ARG1 27:0,28:0-ARG0 29:0-rel
+wsj/05/wsj_0583.mrg 22 1 attitude 01 1:0-rel 2:1-ARG2 11:1-ARG1
+wsj/05/wsj_0590.mrg 29 4 attitude 01 3:0-ARG1 4:0-rel
+wsj/07/wsj_0725.mrg 59 17 attitude 01 11:1-ARG0 17:0-rel
+wsj/07/wsj_0749.mrg 26 11 attitude 01 2:1-ARG0 5:0-Support 8:1-ARG1 11:0-rel 12:1-ARG2
+wsj/09/wsj_0946.mrg 6 28 attitude 01 28:0-rel 29:1-ARG2
+wsj/10/wsj_1037.mrg 74 6 attitude 01 0:1-ARG0 2:0-Support 4:0,5:0-ARG1 6:0-rel
+wsj/10/wsj_1094.mrg 30 10 attitude 01 9:0-ARG0 10:0-rel
+wsj/11/wsj_1160.mrg 19 19 attitude 01 19:0-rel 22:1-ARG1
+wsj/12/wsj_1203.mrg 36 3 attitude 01 3:0-rel 6:1-ARG1 8:1-ARG2
+wsj/12/wsj_1267.mrg 63 20 attitude 01 15:1-ARG0 16:0,17:0-Support 20:0-rel
+wsj/12/wsj_1267.mrg 70 6 attitude 01 0:1-ARG0 4:0-Support 5:0-ARG1 6:0-rel 7:1-ARG2
+wsj/12/wsj_1267.mrg 71 17 attitude 01 14:1-ARG0 17:0-rel 18:2-ARG2
+wsj/12/wsj_1267.mrg 78 18 attitude 01 15:1-ARG0 18:0-rel
+wsj/13/wsj_1373.mrg 33 6 attitude 01 4:1-ARG1 6:0-rel 7:1-ARG2 15:1*18:0-ARG0 20:0-Support
+wsj/13/wsj_1394.mrg 29 13 attitude 01 9:1-ARG0 12:0-ARG1 13:0-rel
+wsj/14/wsj_1495.mrg 5 14 attitude 01 10:1-ARG0 13:0-ARG1 14:0-rel 15:1-ARG2
+wsj/15/wsj_1525.mrg 26 19 attitude 01 13:1-ARG0 16:0-Support 19:0-rel 20:1-ARG1
+wsj/17/wsj_1705.mrg 9 37 attitude 01 30:1-ARG0 31:0-Support 36:0-ARG1 37:0-rel
+wsj/17/wsj_1789.mrg 46 13 attitude 01 9:1-ARG0 11:1-ARG1 13:0-rel
+wsj/18/wsj_1809.mrg 3 2 attitude 01 1:0-ARG0 2:0-rel 6:3-ARG1
+wsj/18/wsj_1826.mrg 8 2 attitude 01 1:0-ARG0 2:0-rel 4:1-ARG1
+wsj/18/wsj_1843.mrg 15 5 attitude 01 4:0-ARG0 5:0-ARG1-REF 5:0-rel 6:1-ARG2
+wsj/18/wsj_1847.mrg 22 7 attitude 01 5:1-ARG0 7:0-rel 8:1-ARG2
+wsj/19/wsj_1996.mrg 38 12 attitude 01 11:0-ARG0 12:0-rel
+wsj/21/wsj_2149.mrg 30 55 attitude 01 49:0-ARG0 51:0-Support 54:0-ARG1 55:0-rel 56:1-ARG2
+wsj/21/wsj_2161.mrg 43 1 attitude 01 0:0-ARG0 1:0-rel 4:2-ARG1
+wsj/21/wsj_2162.mrg 5 10 attitude 01 9:0-ARG1 10:0-rel 12:1-ARG0 14:0-Support 16:1-ARG2
+wsj/22/wsj_2201.mrg 41 14 attitude 01 9:1-ARG0 11:0-Support 13:0-ARG1 14:0-rel
+wsj/23/wsj_2373.mrg 4 20 attitude 01 20:0-rel 21:2-ARG1-PRD
+wsj/04/wsj_0455.mrg 21 13 award 01 0:1*4:0-ARG0 5:0,6:0-Support 8:1-ARG1 12:0-ARG4 13:0-rel 14:1-ARG3
+wsj/04/wsj_0455.mrg 24 14 award 01 4:2-ARG0 11:0-Support 13:0-ARG4 14:0-ARG1-REF 14:0-rel 15:1-ARG3
+wsj/04/wsj_0455.mrg 29 15 award 01 10:1-ARG0 13:0-Support 15:0-ARG1-REF 15:0-rel
+wsj/04/wsj_0455.mrg 36 4 award 01 4:0-rel 5:1-ARG1 12:1-ARG3 16:1-ARG4
+wsj/04/wsj_0455.mrg 37 1 award 01 1:0-ARG1-REF 1:0-rel 3:0-Support 5:1-ARG0 9:1-ARG2
+wsj/05/wsj_0561.mrg 35 21 award 01 8:2-ARG2 14:0,16:0-Support 18:0,19:0,20:0-ARG1 21:0-rel
+wsj/13/wsj_1394.mrg 24 3 award 01 1:0,2:0-ARG1 3:0-rel 7:0-Support 18:0-Support 20:1-ARG2
+wsj/14/wsj_1474.mrg 18 20 award 01 15:1-ARG1 20:0-rel 21:1-ARG0
+wsj/15/wsj_1583.mrg 25 34 award 01 32:0,33:0-ARG2 34:0-ARG1-REF 34:0-rel
+wsj/16/wsj_1611.mrg 2 14 award 01 12:0-ARGM-TMP 13:0-ARG0 14:0-ARG1-REF 14:0-rel 15:0,17:0,18:0-Support 19:1-ARG4
+wsj/17/wsj_1709.mrg 8 43 award 01 43:0-ARG1-REF 43:0-rel 44:1-ARG0
+wsj/17/wsj_1743.mrg 45 18 award 01 14:1-ARG1 17:0-ARG4 18:0-rel 19:1-ARG2
+wsj/21/wsj_2154.mrg 18 27 award 01 26:0-ARGM-EXT 27:0-ARG1-REF 27:0-rel
+wsj/21/wsj_2154.mrg 3 6 award 01 4:0-ARGM-EXT 5:0-ARG3 6:0-ARG1-REF 6:0-rel
+wsj/21/wsj_2154.mrg 4 4 award 01 1:0-ARGM-EXT 2:0,3:0-ARG4 4:0-ARG1-REF 4:0-rel
+wsj/21/wsj_2154.mrg 9 38 award 01 37:0-ARGM-TMP 38:0-ARG1-REF 38:0-rel
+wsj/23/wsj_2354.mrg 14 21 award 01 20:0-ARG1 21:0-rel
+wsj/24/wsj_2433.mrg 21 17 award 01 3:2-ARG0 11:0-Support 13:1-ARG1 17:0-rel 18:0,19:1-ARG4 21:1-ARG2
+wsj/24/wsj_2433.mrg 23 16 award 01 10:0,14:0,17:0-Support 16:0-ARG1-REF 16:0-rel 19:1-ARG2 22:2-ARG4-PRD
+wsj/24/wsj_2433.mrg 28 26 award 01 25:0-ARG4 26:0-ARG1-REF 26:0-rel
+wsj/05/wsj_0561.mrg 41 37 award 02 34:1-ARG0 36:0-ARG3 37:0-ARG1-REF 37:0-rel
+wsj/11/wsj_1154.mrg 53 17 award 02 5:0,9:0,11:0,12:0-Support 6:1-ARG1 9:0,10:1-ARG2 13:0-ARG0 14:0,15:0,16:0-ARG3 17:0-rel
+wsj/16/wsj_1655.mrg 14 13 award 02 8:1-ARG0 12:0-ARG3 13:0-ARG1-REF 13:0-rel
+wsj/16/wsj_1655.mrg 25 18 award 02 12:1*14:1*15:0-ARG2 16:0-Support 18:0-ARG1-REF 18:0-rel
+wsj/17/wsj_1790.mrg 21 10 award 02 5:1-ARG0 7:0-Support 10:0-rel 11:1-ARG1
+wsj/22/wsj_2223.mrg 40 20 award 02 3:2-ARG0 8:0-Support 9:2-ARG2 16:1-ARG1 19:0-ARG3 20:0-rel
+wsj/22/wsj_2250.mrg 32 5 award 02 0:1-ARG2 2:0-Support 4:0-ARG1 5:0-rel 6:1-ARG3
+wsj/23/wsj_2314.mrg 51 18 award 02 4:1-ARG2 14:0-Support 16:0-ARG0 17:0-ARG3 18:0-ARG1-REF 18:0-rel
+wsj/00/wsj_0041.mrg 37 8 battle 01 6:0-ARG0 7:0-ARG2 8:0-rel 9:1-ARG1
+wsj/00/wsj_0085.mrg 33 25 battle 01 23:0-ARG0 24:0-ARG2 25:0-rel
+wsj/01/wsj_0100.mrg 6 3 battle 01 2:0-ARG2 3:0-rel
+wsj/01/wsj_0101.mrg 20 5 battle 01 2:0*15:2-ARG0 3:0-Support 5:0-rel 8:1-ARG1
+wsj/01/wsj_0118.mrg 11 15 battle 01 3:2*9:0-ARG0 12:0-Support 14:0-ARG2 15:0-rel
+wsj/01/wsj_0118.mrg 5 2 battle 01 1:0-ARGM-ADV 2:0-rel 4:1-ARG2
+wsj/01/wsj_0118.mrg 62 9 battle 01 9:0-rel 11:1-ARG2
+wsj/02/wsj_0278.mrg 23 43 battle 01 39:0-ARGM-MNR 43:0-rel
+wsj/02/wsj_0278.mrg 6 6 battle 01 0:1-ARG0 6:0-rel
+wsj/02/wsj_0280.mrg 32 9 battle 01 3:1-ARG0 6:0-Support 9:0-rel
+wsj/03/wsj_0333.mrg 1 37 battle 01 36:0-ARGM-TMP 37:0-rel 38:1-ARG2
+wsj/03/wsj_0333.mrg 2 10 battle 01 10:0-rel 11:1-ARG0 20:1-ARG2
+wsj/04/wsj_0470.mrg 0 12 battle 01 10:0-ARG0 12:0-rel 13:1-ARG2
+wsj/04/wsj_0473.mrg 11 8 battle 01 7:0-ARGM-MNR 8:0-rel 9:0*12:1-ARG0
+wsj/04/wsj_0473.mrg 1 34 battle 01 33:0-ARGM-MNR 34:0-rel 35:1-ARG2
+wsj/04/wsj_0477.mrg 0 9 battle 01 0:2-ARG1 6:0-Support 8:0-ARG2 9:0-rel 10:1-ARG0
+wsj/04/wsj_0477.mrg 6 10 battle 01 9:0-ARG2 10:0-rel
+wsj/04/wsj_0493.mrg 21 7 battle 01 0:2-ARG1 4:0-Support 6:0-ARG2 7:0-rel 8:1-ARG0
+wsj/05/wsj_0508.mrg 8 4 battle 01 3:0-ARG2 4:0-rel
+wsj/05/wsj_0564.mrg 42 22 battle 01 21:0-ARGM-MNR 22:0-rel
+wsj/05/wsj_0578.mrg 17 23 battle 01 20:0-ARGM-MNR 23:0-rel
+wsj/05/wsj_0578.mrg 20 17 battle 01 16:0-ARGM-TMP 17:0-rel
+wsj/06/wsj_0677.mrg 0 13 battle 01 0:1*4:1*7:0-ARG0 9:0-Support 11:0,12:0-ARG2 13:0-rel 14:1-ARG1
+wsj/07/wsj_0745.mrg 0 25 battle 01 18:0-ARG0 20:0,21:0-Support 23:0-ARGM-ADV 24:0-ARGM-MNR 25:0-rel 26:1-ARG1 30:1-ARG2
+wsj/07/wsj_0756.mrg 13 34 battle 01 33:0-ARGM-MNR 34:0-rel 35:1-ARG2
+wsj/07/wsj_0758.mrg 11 24 battle 01 24:0-rel 25:1-ARG0 28:1-ARG2 34:2-ARGM-TMP
+wsj/07/wsj_0764.mrg 16 22 battle 01 0:2*18:0-ARG0 20:0-Support 22:0-rel
+wsj/07/wsj_0764.mrg 30 17 battle 01 16:0-ARG2 17:0-rel
+wsj/07/wsj_0765.mrg 79 18 battle 01 18:0-rel 19:1-ARG2
+wsj/08/wsj_0810.mrg 12 14 battle 01 9:1-ARG0 11:0-Support 14:0-rel
+wsj/08/wsj_0810.mrg 27 30 battle 01 29:0-ARG2 30:0-rel
+wsj/08/wsj_0817.mrg 10 31 battle 01 30:0-ARGM-TMP 31:0-rel 32:1-ARG2
+wsj/09/wsj_0946.mrg 18 8 battle 01 7:0-ARGM-MNR 8:0-rel
+wsj/09/wsj_0989.mrg 25 26 battle 01 6:2-ARG0 23:0-Support 25:0-ARG2 26:0-rel
+wsj/09/wsj_0990.mrg 22 18 battle 01 16:1-ARGM-MNR 18:0-rel 19:1-ARG0
+wsj/09/wsj_0992.mrg 0 13 battle 01 12:0-ARG2 13:0-rel
+wsj/10/wsj_1014.mrg 21 46 battle 01 34:1-ARG0 41:0-Support 46:0-rel
+wsj/10/wsj_1022.mrg 25 5 battle 01 0:1-ARG0 3:0-Support 5:0-rel 6:1-ARG1
+wsj/10/wsj_1099.mrg 7 1 battle 01 1:0-rel 2:1-ARG1 6:0-Support 7:1-ARG0
+wsj/11/wsj_1160.mrg 28 18 battle 01 2:2-ARG0 15:0-Support 18:0-rel 19:1-ARG1 22:1-ARG2
+wsj/11/wsj_1164.mrg 14 11 battle 01 10:0-ARGM-TMP 11:0-rel
+wsj/12/wsj_1225.mrg 0 5 battle 01 4:0-ARG0 5:0-rel 6:1-ARG1 10:1-ARG2
+wsj/12/wsj_1268.mrg 7 2 battle 01 2:0-rel 4:2-ARG2-PRD
+wsj/12/wsj_1296.mrg 42 14 battle 01 8:1-ARG0 10:0-Support 14:0-rel
+wsj/13/wsj_1319.mrg 16 15 battle 01 3:3-ARG0 13:0-Support 15:0-rel 16:1-ARG2
+wsj/13/wsj_1319.mrg 18 11 battle 01 2:1*6:0-ARG0 7:0-Support 11:0-rel 14:1-ARG2
+wsj/13/wsj_1371.mrg 2 18 battle 01 18:0-rel 19:1-ARG2
+wsj/13/wsj_1377.mrg 10 10 battle 01 8:1-ARGM-MNR 10:0-rel 11:2-ARG2-PRD
+wsj/13/wsj_1377.mrg 56 1 battle 01 1:0-rel 2:1-ARG2
+wsj/13/wsj_1387.mrg 25 25 battle 01 10:1*19:0-ARG0 21:0,23:0-Support 25:0-rel 26:1-ARG1
+wsj/13/wsj_1391.mrg 10 9 battle 01 4:1-ARG0 5:0-Support 9:0-rel
+wsj/14/wsj_1404.mrg 9 36 battle 01 18:1-ARG0 35:0-ARG2 36:0-rel 37:1-ARG1
+wsj/15/wsj_1540.mrg 23 10 battle 01 10:0-rel 11:1-ARG1
+wsj/15/wsj_1570.mrg 14 8 battle 01 6:0-ARG0 7:0-ARGM-TMP 8:0-rel 9:1-ARG1 14:1-ARG2
+wsj/15/wsj_1590.mrg 1 22 battle 01 22:0-rel 23:2-ARG2-PRD
+wsj/16/wsj_1684.mrg 8 9 battle 01 9:0-rel 10:1-ARG2
+wsj/17/wsj_1742.mrg 2 14 battle 01 0:1-ARG0 14:0-rel 15:1-ARG1 19:1-ARG2
+wsj/17/wsj_1781.mrg 23 10 battle 01 9:0-ARGM-ADV 10:0-rel 11:1-ARG0 17:1-ARG2
+wsj/17/wsj_1782.mrg 4 17 battle 01 13:1-ARG0 17:0-rel 18:1-ARG1
+wsj/17/wsj_1797.mrg 0 6 battle 01 0:1-ARG0 2:0-Support 3:1-ARGM-TMP 6:0-rel
+wsj/17/wsj_1797.mrg 2 34 battle 01 33:0-ARGM-MNR 34:0-rel 35:2-ARG2-PRD
+wsj/18/wsj_1819.mrg 9 21 battle 01 19:0-ARG0 20:0-ARG2 21:0-rel
+wsj/18/wsj_1847.mrg 33 16 battle 01 14:0-ARGM-LOC 15:0-ARG2 16:0-rel
+wsj/18/wsj_1875.mrg 27 24 battle 01 14:2-ARG0 20:0-Support 24:0-rel
+wsj/19/wsj_1927.mrg 1 4 battle 01 4:0-rel 5:1-ARG2
+wsj/19/wsj_1927.mrg 24 31 battle 01 25:1-ARG0 29:0-Support 31:0-rel
+wsj/19/wsj_1927.mrg 3 7 battle 01 7:0-rel 8:2-ARG2
+wsj/19/wsj_1930.mrg 9 25 battle 01 21:1-ARG0 24:0-ARG1 25:0-rel
+wsj/19/wsj_1946.mrg 1 16 battle 01 14:0-ARGM-TMP 16:0-rel 17:1-ARG2
+wsj/20/wsj_2013.mrg 161 4 battle 01 4:0-rel 5:1-ARGM-MNR
+wsj/20/wsj_2017.mrg 16 31 battle 01 25:1-ARG0 29:0-Support 31:0-rel
+wsj/20/wsj_2068.mrg 1 16 battle 01 16:0-rel 17:1-ARG0 27:1-ARG2
+wsj/20/wsj_2086.mrg 9 7 battle 01 6:0-ARG2 7:0-rel
+wsj/21/wsj_2136.mrg 5 1 battle 01 1:0-rel 2:0*7:1-ARG2
+wsj/22/wsj_2233.mrg 0 18 battle 01 18:0-rel 20:2-ARG2-PRD
+wsj/23/wsj_2357.mrg 1 9 battle 01 8:0-ARGM-MNR 9:0-rel 10:1-ARG0
+wsj/23/wsj_2365.mrg 20 5 battle 01 5:0-rel 6:1-ARG2
+wsj/23/wsj_2384.mrg 11 21 battle 01 7:2*17:0-ARG0 16:0,18:0-Support 20:0-ARGM-MNR 21:0-rel 22:1-ARG2
+wsj/23/wsj_2384.mrg 21 7 battle 01 0:1*4:0-ARG0 3:0,5:0-Support 7:0-rel 8:1-ARG2
+wsj/23/wsj_2387.mrg 34 9 battle 01 8:0-ARGM-ADV 9:0-rel 11:0-Support 13:1-ARG0
+wsj/24/wsj_2432.mrg 17 8 battle 01 0:1-ARG0 4:0,5:0-Support 8:0-rel 9:1-ARG2
+wsj/24/wsj_2443.mrg 28 3 battle 01 2:0-ARG2 3:0-rel
+wsj/00/wsj_0044.mrg 51 6 breakdown 01 0:1-ARG1 3:0-Support 5:0-ARGM-MNR 6:0-rel
+wsj/04/wsj_0415.mrg 28 7 breakdown 01 6:0-ARGM-TMP 7:0-rel 8:1-ARG1
+wsj/06/wsj_0664.mrg 30 5 breakdown 01 4:0-ARG1 5:0-rel
+wsj/07/wsj_0719.mrg 5 10 breakdown 01 9:0-ARG1 10:0-rel
+wsj/14/wsj_1419.mrg 19 15 breakdown 01 15:0-rel 16:1-ARG1
+wsj/15/wsj_1515.mrg 46 13 breakdown 01 13:0-rel 14:1-ARG1
+wsj/22/wsj_2210.mrg 9 7 breakdown 01 6:0-ARG1 7:0-rel
+wsj/24/wsj_2417.mrg 35 26 breakdown 01 23:0-ARGM-MNR 24:0,25:0-ARG1 26:0-rel
+wsj/07/wsj_0735.mrg 1 26 breakdown 02 26:0-rel 27:1-ARG1
+wsj/07/wsj_0735.mrg 4 8 breakdown 02 8:0-rel 9:1-ARG1
+wsj/08/wsj_0818.mrg 46 2 breakdown 02 2:0-rel 4:1-ARG0
+wsj/09/wsj_0938.mrg 18 32 breakdown 02 0:2*28:0-ARG0 30:0-Support 32:0-rel 33:1-ARG1
+wsj/11/wsj_1123.mrg 7 16 breakdown 02 13:1-ARGM-MNR 16:0-rel 17:1-ARG1
+wsj/22/wsj_2210.mrg 10 4 breakdown 02 4:0-rel 5:1-ARG1
+wsj/22/wsj_2242.mrg 4 5 breakdown 02 1:0*7:1-ARG0 2:0-Support 4:0-ARG1 5:0-rel
+wsj/01/wsj_0186.mrg 14 7 bribery 01 0:1-ARG0 4:0-Support 7:0-rel
+wsj/14/wsj_1407.mrg 0 19 bribery 01 0:1-ARG1 16:0,18:0,22:0-Support 19:0-rel 23:1-ARG2
+wsj/14/wsj_1407.mrg 2 20 bribery 01 0:2-ARG1 11:0,16:0,23:0-Support 20:0-rel
+wsj/14/wsj_1407.mrg 9 26 bribery 01 0:3*20:0-ARG0 21:0,22:0,27:0-Support 26:0-rel
+wsj/15/wsj_1547.mrg 22 13 bribery 01 7:0,10:0,14:0-Support 8:1-ARG1 13:0-rel
+wsj/16/wsj_1682.mrg 38 6 bribery 01 0:1-ARG0 4:0,5:0-Support 6:0-rel
+wsj/00/wsj_0015.mrg 17 17 calculation 01 14:1-ARG0 17:0-ARG2-REF 17:0-rel
+wsj/02/wsj_0258.mrg 24 6 calculation 01 0:1-ARG0 3:0-Support 6:0-rel
+wsj/07/wsj_0766.mrg 74 7 calculation 01 0:1-ARG0 4:0-Support 7:0-rel
+wsj/07/wsj_0781.mrg 2 29 calculation 01 24:1*25:1*26:0-ARG0 27:0-Support 29:0-rel
+wsj/07/wsj_0781.mrg 3 24 calculation 01 14:1*16:0-ARG0 18:0,20:0,21:0-Support 19:1-ARG1 23:0-ARGM-MNR 24:0-rel
+wsj/08/wsj_0800.mrg 32 16 calculation 01 14:0-ARG0 15:0-ARG1 16:0-ARG2-REF 16:0-rel
+wsj/10/wsj_1052.mrg 40 1 calculation 01 0:0-ARG0 1:0-ARG2-REF 1:0-rel 2:1-ARGM-PNC
+wsj/12/wsj_1294.mrg 16 15 calculation 01 14:0-ARG0 15:0-rel 16:1-ARG1
+wsj/15/wsj_1556.mrg 27 11 calculation 01 8:1-ARG0 11:0-ARG2-REF 11:0-rel
+wsj/15/wsj_1566.mrg 25 6 calculation 01 5:0-ARG0 6:0-ARG2-REF 6:0-rel
+wsj/15/wsj_1566.mrg 29 3 calculation 01 2:0-ARG0 3:0-rel 5:1,7:1-ARG1
+wsj/15/wsj_1566.mrg 32 15 calculation 01 13:0-ARG0 14:0-ARGM-MNR 15:0-ARG2-REF 15:0-rel
+wsj/20/wsj_2033.mrg 7 39 calculation 01 38:0-ARG1 39:0-rel 41:1-ARG0 43:0-Support
+wsj/23/wsj_2384.mrg 43 10 calculation 01 0:2*9:0-ARG0 10:0-ARG2-REF 10:0-rel
+wsj/24/wsj_2400.mrg 12 39 calculation 01 38:0-ARG0 39:0-rel
+wsj/01/wsj_0117.mrg 1 6 cancellation 01 6:0-rel 7:1-ARG1
+wsj/01/wsj_0128.mrg 35 8 cancellation 01 8:0-rel 9:1-ARG1
+wsj/08/wsj_0814.mrg 63 18 cancellation 01 17:0-ARG1 18:0-rel
+wsj/11/wsj_1150.mrg 1 21 cancellation 01 18:1-ARG1 21:0-rel
+wsj/21/wsj_2162.mrg 0 10 cancellation 01 10:0-rel 11:1-ARG1 24:1-ARG0
+wsj/22/wsj_2233.mrg 1 31 cancellation 01 21:1*24:0-ARG0 27:0-Support 30:0-ARGM-TMP 31:0-rel 32:1-ARG1
+wsj/23/wsj_2323.mrg 1 30 cancellation 01 30:0-rel 31:1-ARG1
+wsj/23/wsj_2340.mrg 3 8 cancellation 01 8:0-rel 9:1-ARG1
+wsj/00/wsj_0047.mrg 23 39 cause 01 38:0-ARGM-MNR 39:0-ARG0 39:0-rel 40:1-ARG1
+wsj/00/wsj_0072.mrg 4 16 cause 01 15:0-ARGM-NEG 16:0-ARG0 16:0-rel 17:1-ARG1
+wsj/00/wsj_0097.mrg 25 8 cause 01 8:0-ARG0 8:0-rel 9:1-ARG1
+wsj/01/wsj_0105.mrg 1 11 cause 01 10:0-ARGM-MNR 11:0-ARG0 11:0-rel 13:1-ARG1
+wsj/01/wsj_0105.mrg 25 32 cause 01 32:0-ARG0 32:0-rel 33:1-ARG1
+wsj/01/wsj_0105.mrg 4 2 cause 01 2:0-ARG0 2:0-rel 4:1-ARG1
+wsj/01/wsj_0186.mrg 28 19 cause 01 18:0-ARGM-MNR 19:0-ARG0 19:0-rel 20:1-ARG1
+wsj/04/wsj_0449.mrg 35 11 cause 01 11:0-ARG0 11:0-rel 12:1-ARG1
+wsj/06/wsj_0683.mrg 14 7 cause 01 1:1,2:0,3:1-ARG1 6:0-ARGM-MNR 7:0-ARG0 7:0-rel
+wsj/07/wsj_0779.mrg 40 5 cause 01 5:0-ARG0 5:0-rel 6:1-ARG1
+wsj/07/wsj_0783.mrg 0 7 cause 01 7:0-ARG0 7:0-rel 8:1-ARG1
+wsj/10/wsj_1002.mrg 9 8 cause 01 8:0-ARG0 8:0-rel 9:1-ARG1
+wsj/10/wsj_1092.mrg 27 36 cause 01 35:0-ARGM-MNR 36:0-ARG0 36:0-rel 37:1-ARG1
+wsj/11/wsj_1131.mrg 15 11 cause 01 10:0-ARGM-MNR 11:0-ARG0 11:0-rel 12:1-ARG1
+wsj/11/wsj_1172.mrg 15 8 cause 01 8:0-ARG0 8:0-rel 9:1-ARG1
+wsj/11/wsj_1192.mrg 40 2 cause 01 2:0-ARG0 2:0-rel 3:1-ARG1
+wsj/12/wsj_1216.mrg 26 7 cause 01 7:0-ARG0 7:0-rel 8:1-ARG1
+wsj/12/wsj_1255.mrg 9 31 cause 01 30:0-ARGM-MNR 31:0-ARG0 31:0-rel
+wsj/12/wsj_1284.mrg 6 14 cause 01 13:0-ARGM-ADV 14:0-ARG0 14:0-rel 15:1-ARG1
+wsj/13/wsj_1309.mrg 4 26 cause 01 26:0-ARG0 26:0-rel 27:1-ARG1
+wsj/13/wsj_1375.mrg 37 14 cause 01 13:0-ARGM-MNR 14:0-ARG0 14:0-rel 15:1-ARG1
+wsj/13/wsj_1394.mrg 70 30 cause 01 21:1,22:0,23:0,24:0,25:1,26:1-ARG1 30:0-ARG0 30:0-rel
+wsj/15/wsj_1547.mrg 26 8 cause 01 8:0-ARG0 8:0-rel 9:1-ARG1
+wsj/18/wsj_1852.mrg 11 13 cause 01 13:0-ARG0 13:0-rel 14:1-ARG1
+wsj/20/wsj_2013.mrg 93 5 cause 01 5:0-ARG0 5:0-rel 6:1-ARG1
+wsj/20/wsj_2017.mrg 2 28 cause 01 27:0-ARGM-MNR 28:0-ARG0 28:0-rel 29:1-ARG1
+wsj/22/wsj_2276.mrg 21 13 cause 01 12:0-ARGM-NEG 13:0-ARG0 13:0-rel 14:1-ARG1
+wsj/23/wsj_2377.mrg 26 10 cause 01 10:0-ARG0 10:0-rel 11:1-ARG1
+wsj/23/wsj_2386.mrg 16 25 cause 01 25:0-ARG0 25:0-rel 26:1-ARG1
+wsj/24/wsj_2417.mrg 25 11 cause 01 10:0-ARGM-MNR 11:0-ARG0 11:0-rel 12:1-ARG1
+wsj/01/wsj_0118.mrg 168 27 cause 02 23:1-ARG0 25:0-Support 27:0-ARG1 27:0-rel
+wsj/01/wsj_0118.mrg 18 18 cause 02 11:0,14:0-Support 12:1-ARG0 16:0,17:0-ARG2 18:0-ARG1 18:0-rel
+wsj/02/wsj_0290.mrg 23 9 cause 02 5:1-ARG0 7:0-Support 9:0-ARG1 9:0-rel
+wsj/02/wsj_0290.mrg 54 10 cause 02 9:0-ARG0 10:0-ARG1 10:0-rel
+wsj/04/wsj_0453.mrg 22 21 cause 02 10:1*18:0-ARG0 19:0-Support 21:0-ARG1 21:0-rel
+wsj/05/wsj_0553.mrg 35 11 cause 02 10:0-ARG2 11:0-ARG1 11:0-rel
+wsj/07/wsj_0748.mrg 13 17 cause 02 2:2-ARG0 13:0-Support 14:1-ARG2 17:0-ARG1 17:0-rel
+wsj/07/wsj_0765.mrg 45 35 cause 02 25:1-ARG0 32:0,33:0-Support 34:0-ARG2 35:0-ARG1 35:0-rel
+wsj/08/wsj_0804.mrg 28 18 cause 02 8:1*14:0-ARG0 16:0-Support 18:0-ARG1 18:0-rel 19:1-ARG2
+wsj/10/wsj_1094.mrg 44 18 cause 02 12:0-ARG0 15:0,16:0-Support 17:0-ARG2 18:0-ARG1 18:0-rel
+wsj/13/wsj_1327.mrg 33 8 cause 02 0:1-ARG0 2:0,3:0-Support 4:1-ARG2 8:0-ARG1 8:0-rel
+wsj/13/wsj_1366.mrg 7 17 cause 02 14:0-ARG0 17:0-ARG1 17:0-rel
+wsj/16/wsj_1615.mrg 22 34 cause 02 30:0-ARG0 31:0,32:0-Support 33:0-ARG2 34:0-ARG1 34:0-rel
+wsj/18/wsj_1847.mrg 19 11 cause 02 0:2-ARG0 8:0,9:0-Support 11:0-ARG1 11:0-rel
+wsj/20/wsj_2013.mrg 128 7 cause 02 2:0-ARG0 3:0,4:0-Support 6:0-ARG2 7:0-ARG1 7:0-rel
+wsj/20/wsj_2053.mrg 1 15 cause 02 14:0-ARG2 15:0-ARG1 15:0-rel
+wsj/20/wsj_2053.mrg 39 14 cause 02 9:0,10:0,11:0,12:0,13:0-ARG2 14:0-ARG1 14:0-rel
+wsj/20/wsj_2053.mrg 7 17 cause 02 12:1-ARG0 17:0-ARG1 17:0-rel
+wsj/23/wsj_2369.mrg 7 10 cause 02 3:1-ARG0 5:0,8:0-Support 9:0-ARG2 10:0-ARG1 10:0-rel
+wsj/24/wsj_2446.mrg 3 48 cause 02 41:1-ARG0 45:0-Support 47:0-ARG2 48:0-ARG1 48:0-rel
+wsj/23/wsj_2377.mrg 47 31 cause 03 26:1-ARG0 31:0-rel
+wsj/06/wsj_0624.mrg 1 31 celebration 01 14:2-ARG0 23:0,29:0-Support 31:0-rel 32:1-ARG1
+wsj/06/wsj_0655.mrg 4 6 celebration 01 5:0-ARGM-TMP 6:0-rel 7:1-ARGM-LOC 10:2-ARG1-PRD 24:0-Support 26:1-ARG0
+wsj/07/wsj_0748.mrg 12 18 celebration 01 13:1-ARG0 16:0-Support 18:0-rel 19:1-ARGM-TMP
+wsj/07/wsj_0748.mrg 7 18 celebration 01 13:1-ARG0 16:0-Support 18:0-rel 19:1-ARG1
+wsj/10/wsj_1002.mrg 9 10 celebration 01 0:2*5:0-ARG1 8:0,9:0-Support 10:0-rel
+wsj/19/wsj_1929.mrg 17 43 celebration 01 37:1-ARG0 40:0-ARGM-MNR 41:0,42:0-ARG1 43:0-rel
+wsj/03/wsj_0326.mrg 1 5 celebration 02 4:0-ARGM-MNR 5:0-rel 6:1-ARG1
+wsj/05/wsj_0587.mrg 8 23 celebration 02 23:0-rel 24:1-ARGM-LOC 27:0-Support 28:2-ARG1
+wsj/07/wsj_0748.mrg 2 21 celebration 02 18:1-ARG0 21:0-rel 22:1-ARG1
+wsj/09/wsj_0910.mrg 5 30 celebration 02 18:1*24:1*25:0-ARG0 27:0-Support 30:0-rel 31:1-ARG1
+wsj/20/wsj_2034.mrg 54 9 celebration 02 6:0,7:0,8:0-ARG1 9:0-rel
+wsj/00/wsj_0096.mrg 33 36 complaint 01 35:0-ARG0 36:0-ARG1-REF 36:0-rel
+wsj/00/wsj_0098.mrg 1 8 complaint 01 8:0-ARG1-REF 8:0-rel 9:1-ARG0
+wsj/01/wsj_0183.mrg 1 13 complaint 01 13:0-rel 14:0*19:1-ARG1 15:1-ARG0
+wsj/01/wsj_0183.mrg 6 9 complaint 01 4:1-ARG2 6:0-Support 9:0-rel 10:0-Support 12:1-ARG0 21:1-ARG1
+wsj/02/wsj_0267.mrg 25 45 complaint 01 10:1*42:0-ARG0 44:0-Support 45:0-ARG1-REF 45:0-rel
+wsj/02/wsj_0267.mrg 57 5 complaint 01 1:1-ARG0 5:0-rel 6:1-ARG1
+wsj/02/wsj_0267.mrg 69 25 complaint 01 1:3-ARG1 20:0,21:0,23:0-Support 22:1-ARG0 25:0-rel
+wsj/04/wsj_0449.mrg 2 14 complaint 01 1:1*7:1*8:0*12:0-ARG3 11:0,13:0-Support 14:0-ARG1-REF 14:0-rel 15:1-ARG0
+wsj/05/wsj_0518.mrg 8 23 complaint 01 23:0-rel 24:1-ARG1
+wsj/05/wsj_0546.mrg 1 33 complaint 01 0:3-ARG1 25:1-ARG0 28:0,31:0-Support 33:0-rel 34:0-Support 36:1-ARG2
+wsj/05/wsj_0585.mrg 0 15 complaint 01 0:2-ARG0 7:0,10:0,13:0,14:0-Support 15:0-rel 16:1-ARG1
+wsj/07/wsj_0726.mrg 1 8 complaint 01 0:2-ARG0 5:0-Support 8:0-rel 9:1-ARG3 13:2-ARG1
+wsj/08/wsj_0814.mrg 59 8 complaint 01 0:2-ARG0 5:0-Support 7:0-ARG2 8:0-rel 9:1-ARG3 14:1-ARG1
+wsj/09/wsj_0989.mrg 42 7 complaint 01 0:1*4:0-ARG3 5:0-Support 6:0-ARG1 7:0-rel
+wsj/10/wsj_1058.mrg 62 7 complaint 01 2:1-ARG2 4:0-Support 7:0-rel 8:1-ARG1
+wsj/11/wsj_1123.mrg 0 5 complaint 01 0:1-ARG0 2:0,3:0,4:0-Support 5:0-rel 6:1-ARG1
+wsj/11/wsj_1143.mrg 29 5 complaint 01 0:1-ARG0 4:0-ARG1 5:0-rel
+wsj/11/wsj_1189.mrg 20 9 complaint 01 7:0,21:0-Support 9:0-rel 11:1-ARG2 12:0-Support 22:2-ARG1
+wsj/11/wsj_1189.mrg 21 4 complaint 01 0:1-ARG2 2:0-Support 4:0-ARG1-REF 4:0-rel
+wsj/12/wsj_1216.mrg 5 8 complaint 01 0:2*5:0-ARG2 6:0,7:0-Support 8:0-ARG1-REF 8:0-rel 9:1-ARG0
+wsj/12/wsj_1273.mrg 35 33 complaint 01 26:1-ARG2 29:0-Support 33:0-rel 34:1-ARG1
+wsj/12/wsj_1296.mrg 20 21 complaint 01 15:1-ARG2 19:0-Support 21:0-rel 22:1-ARG1
+wsj/13/wsj_1381.mrg 1 1 complaint 01 1:0-rel 3:0-Support 5:1-ARG2 10:0-Support 11:2-ARG3 15:1-ARG1
+wsj/13/wsj_1381.mrg 9 3 complaint 01 0:0,18:0-Support 2:0-ARGM-DIS 3:0-rel 5:0-Support 7:1-ARG2 12:2-ARG0 19:2-ARG3 26:1-ARG1
+wsj/14/wsj_1412.mrg 8 2 complaint 01 1:0-ARG0 2:0-rel 3:1-ARG1
+wsj/14/wsj_1446.mrg 41 18 complaint 01 17:0-ARGM-MNR 18:0-ARG1-REF 18:0-rel 20:0-Support 22:1-ARG3
+wsj/14/wsj_1446.mrg 43 17 complaint 01 12:1*13:1*14:0-ARG0 15:0-Support 16:0-ARGM-MNR 17:0-ARG1-REF 17:0-rel 18:1-ARG3
+wsj/14/wsj_1462.mrg 6 13 complaint 01 5:1-ARG2 10:0-Support 13:0-ARG1-REF 13:0-rel
+wsj/14/wsj_1487.mrg 2 1 complaint 01 1:0-rel 2:0-Support 3:2-ARG1
+wsj/15/wsj_1504.mrg 26 10 complaint 01 0:1*4:0-ARG2 6:0,7:0,8:0-Support 10:0-ARG1-REF 10:0-rel
+wsj/15/wsj_1504.mrg 28 21 complaint 01 21:0-ARG1-REF 21:0-rel 22:0-Support 24:1-ARG2
+wsj/15/wsj_1504.mrg 30 18 complaint 01 5:3-ARG0 13:0,17:0-Support 14:1-ARG2 18:0-rel 19:1-ARG1
+wsj/15/wsj_1504.mrg 31 9 complaint 01 9:0-ARG1-REF 9:0-rel 11:1-ARG2 15:0-Support
+wsj/15/wsj_1504.mrg 34 6 complaint 01 2:1*4:0-ARG2 5:0-Support 6:0-ARG1-REF 6:0-rel
+wsj/15/wsj_1504.mrg 35 12 complaint 01 10:0-Support 11:0-ARG0 12:0-ARG1-REF 12:0-rel 13:1-ARG2
+wsj/15/wsj_1504.mrg 43 25 complaint 01 19:2-ARG0 24:0-Support 25:0-ARG1-REF 25:0-rel
+wsj/15/wsj_1583.mrg 24 13 complaint 01 0:2-ARG2 12:0-Support 13:0-ARG1-REF 13:0-rel 14:1-ARG0
+wsj/16/wsj_1620.mrg 1 2 complaint 01 0:1-ARG0 2:0-rel 3:0-Support 4:2-ARG1
+wsj/16/wsj_1673.mrg 5 6 complaint 01 0:1-ARG0 3:0-Support 6:0-ARG1-REF 6:0-rel
+wsj/17/wsj_1795.mrg 52 30 complaint 01 27:0-ARG0 28:0,29:0-Support 30:0-ARG1-REF 30:0-rel 31:1-ARGM-TMP
+wsj/17/wsj_1795.mrg 6 9 complaint 01 5:1-ARG3 9:0-ARG1-REF 9:0-rel 10:1-ARG0
+wsj/18/wsj_1830.mrg 36 3 complaint 01 1:0*8:1-ARG2 2:0-Support 3:0-ARG1-REF 3:0-rel 4:1-ARG0
+wsj/18/wsj_1878.mrg 5 3 complaint 01 2:0-ARGM-NEG 3:0-ARG1-REF 3:0-rel 4:1-ARG0
+wsj/19/wsj_1906.mrg 2 11 complaint 01 7:1-ARG0 9:0-Support 11:0-ARG1-REF 11:0-rel
+wsj/19/wsj_1906.mrg 7 18 complaint 01 6:2*11:0*14:0-ARG0 16:0-Support 18:0-rel 19:1-ARG2
+wsj/22/wsj_2224.mrg 8 3 complaint 01 1:1-ARG0 3:0-ARG1-REF 3:0-rel
+wsj/22/wsj_2264.mrg 20 32 complaint 01 27:1-ARG2 30:0-Support 31:0-ARG1 32:0-rel 33:1-ARG0
+wsj/23/wsj_2323.mrg 2 8 complaint 01 8:0-ARG1-REF 8:0-rel 11:0-Support 13:1-ARG2
+wsj/23/wsj_2377.mrg 28 5 complaint 01 2:1-ARG0 5:0-ARG1-REF 5:0-rel
+wsj/23/wsj_2379.mrg 11 3 complaint 01 0:0,1:0,8:0-Support 3:0-rel 4:1-ARG1 9:1-ARG0
+wsj/23/wsj_2379.mrg 13 23 complaint 01 23:0-ARG1-REF 23:0-rel 24:1-ARG0
+wsj/00/wsj_0037.mrg 27 4 complaint 02 3:0-ARGM-MNR 4:0-ARG1-REF 4:0-rel 5:1-ARG0
+wsj/00/wsj_0051.mrg 17 8 complaint 02 5:0-ARGM-NEG 6:0-ARGM-MNR 7:0-ARG0 8:0-rel 9:1-ARG1
+wsj/09/wsj_0967.mrg 8 34 complaint 02 33:0-ARG0 34:0-ARG1-REF 34:0-rel
+wsj/01/wsj_0100.mrg 5 8 completion 01 1:1*4:0-ARG0 6:0-Support 8:0-rel 9:1-ARG1
+wsj/01/wsj_0165.mrg 2 14 completion 01 14:0-rel 15:1-ARG1
+wsj/01/wsj_0169.mrg 4 21 completion 01 16:1*19:0-ARG1 18:0,20:0-Support 21:0-rel 22:1-ARGM-TMP
+wsj/04/wsj_0491.mrg 2 0 completion 01 0:0-rel 1:1-ARG1
+wsj/06/wsj_0624.mrg 2 23 completion 01 16:1*21:0-ARG1 20:0,22:0-Support 23:0-rel
+wsj/06/wsj_0632.mrg 16 13 completion 01 6:1*11:0-ARG1 10:0,12:0-Support 13:0-rel 14:1-ARGM-TMP
+wsj/07/wsj_0786.mrg 4 1 completion 01 1:0-rel 2:1-ARG1
+wsj/10/wsj_1028.mrg 0 28 completion 01 0:1-ARG0 24:0,26:0,27:0-Support 28:0-rel 29:1-ARG1
+wsj/10/wsj_1028.mrg 10 3 completion 01 3:0-rel 4:1-ARG1 9:1-ARGM-TMP
+wsj/10/wsj_1080.mrg 2 14 completion 01 14:0-rel 15:1-ARG1
+wsj/11/wsj_1113.mrg 2 0 completion 01 0:0-rel 1:1-ARG1
+wsj/11/wsj_1185.mrg 5 0 completion 01 0:0-rel 1:1-ARG1
+wsj/11/wsj_1199.mrg 3 35 completion 01 28:1*32:0-ARG0 34:0-Support 35:0-rel 36:1-ARG1
+wsj/12/wsj_1204.mrg 3 41 completion 01 38:1-ARG1 41:0-rel
+wsj/13/wsj_1329.mrg 3 29 completion 01 29:0-rel 30:1-ARG1
+wsj/13/wsj_1334.mrg 11 4 completion 01 4:0-rel 5:1-ARG1
+wsj/15/wsj_1519.mrg 3 13 completion 01 12:0-ARG1 13:0-rel
+wsj/15/wsj_1542.mrg 6 25 completion 01 25:0-rel 26:1-ARG1
+wsj/18/wsj_1884.mrg 37 47 completion 01 36:1*43:0-ARG0 42:0,45:0-Support 47:0-rel 48:1-ARG1
+wsj/21/wsj_2103.mrg 4 0 completion 01 0:0-rel 1:1-ARG1
+wsj/21/wsj_2131.mrg 4 5 completion 01 5:0-rel 6:1-ARG1
+wsj/22/wsj_2272.mrg 6 25 completion 01 25:0-rel 26:1-ARG1
+wsj/23/wsj_2308.mrg 15 6 completion 01 1:1-ARG1 4:0,5:0-Support 6:0-rel
+wsj/04/wsj_0405.mrg 39 16 complication 01 15:0-ARGM-MNR 16:0-rel
+wsj/09/wsj_0984.mrg 64 34 complication 01 33:0-ARGM-MNR 34:0-rel
+wsj/13/wsj_1327.mrg 16 2 complication 01 1:0-ARGM-TMP 2:0-rel
+wsj/13/wsj_1327.mrg 7 4 complication 01 3:0-ARGM-MNR 4:0-rel
+wsj/14/wsj_1436.mrg 28 8 complication 01 5:0-ARG1 8:0-rel
+wsj/05/wsj_0526.mrg 10 42 comprehension 01 42:0-rel 43:1-ARG1
+wsj/00/wsj_0037.mrg 23 67 conduct 01 60:1-ARG0 62:0,63:0,65:0,66:0-Support 67:0-rel
+wsj/02/wsj_0290.mrg 20 9 conduct 01 8:0-ARG1 9:0-rel
+wsj/09/wsj_0966.mrg 34 29 conduct 01 28:0-ARG0 29:0-rel 30:1-ARGM-TMP
+wsj/11/wsj_1184.mrg 22 3 conduct 01 0:1-ARG0 3:0-rel
+wsj/13/wsj_1347.mrg 7 33 conduct 01 30:1-ARG0 33:0-rel
+wsj/13/wsj_1373.mrg 35 11 conduct 01 3:1-ARG0 6:0,7:0-Support 8:1-ARG1 11:0-rel
+wsj/16/wsj_1688.mrg 36 8 conduct 01 8:0-rel 9:1-ARG0
+wsj/17/wsj_1725.mrg 3 10 conduct 01 2:0,7:0-Support 3:1-ARG0 9:0-ARG1 10:0-rel
+wsj/19/wsj_1906.mrg 2 28 conduct 01 24:1-ARG0 27:0-Support 28:0-rel
+wsj/20/wsj_2059.mrg 2 27 conduct 01 27:0-rel 31:2-ARG1
+wsj/20/wsj_2059.mrg 32 7 conduct 01 4:1-ARG0 7:0-rel
+wsj/20/wsj_2059.mrg 35 9 conduct 01 5:1-ARG0 9:0-rel 11:1-ARG1
+wsj/24/wsj_2446.mrg 28 14 conduct 01 13:0-ARG0 14:0-rel 18:1-ARG1
+wsj/17/wsj_1795.mrg 48 4 conduct 02 4:0-rel 5:1-ARG1
+wsj/01/wsj_0118.mrg 30 17 contradiction 01 16:0-ARGM-LOC 17:0-rel
+wsj/22/wsj_2214.mrg 4 5 contradiction 01 4:0-ARGM-ADV 5:0-rel 6:1-ARG0
+wsj/00/wsj_0043.mrg 1 17 cooperation 01 16:0-ARG2 17:0-rel
+wsj/00/wsj_0043.mrg 21 8 cooperation 01 7:0-ARG0 8:0-rel
+wsj/00/wsj_0043.mrg 28 12 cooperation 01 12:0-rel 13:1-ARG0
+wsj/02/wsj_0288.mrg 18 37 cooperation 01 36:0-ARG2 37:0-rel
+wsj/02/wsj_0288.mrg 26 15 cooperation 01 14:0-ARG2 15:0-rel
+wsj/02/wsj_0296.mrg 22 9 cooperation 01 7:0-ARGM-EXT 8:0-ARG2 9:0-rel 10:1-ARG0
+wsj/03/wsj_0314.mrg 6 6 cooperation 01 5:0-ARG0 6:0-rel
+wsj/03/wsj_0347.mrg 5 23 cooperation 01 0:1*5:0-ARG0 7:0-Support 22:0-ARG2 23:0-rel
+wsj/03/wsj_0360.mrg 36 17 cooperation 01 17:0-rel 20:1-ARG0
+wsj/04/wsj_0407.mrg 6 18 cooperation 01 15:0-ARG0 18:0-rel
+wsj/04/wsj_0492.mrg 6 20 cooperation 01 20:0-rel 21:0-Support 22:1-ARG1
+wsj/06/wsj_0631.mrg 0 18 cooperation 01 0:2-ARG0 15:0,19:0-Support 18:0-rel 20:1-ARG1
+wsj/06/wsj_0664.mrg 47 17 cooperation 01 13:1-ARG0 17:0-rel
+wsj/07/wsj_0764.mrg 30 4 cooperation 01 4:0-rel 5:1-ARG0
+wsj/09/wsj_0926.mrg 4 12 cooperation 01 10:0-ARG0 12:0-rel 13:1-ARG1
+wsj/10/wsj_1010.mrg 12 16 cooperation 01 13:1-ARG0 16:0-rel
+wsj/10/wsj_1078.mrg 0 15 cooperation 01 6:1-ARG0 9:0,10:0-Support 14:0-ARG2 15:0-rel 16:0*17:1-ARG1
+wsj/10/wsj_1078.mrg 1 8 cooperation 01 2:1-ARG0 5:0,6:0-Support 7:0-ARG2 8:0-rel 9:1-ARG1
+wsj/10/wsj_1078.mrg 2 14 cooperation 01 4:1-ARG0 6:0,7:0,9:0,10:0-Support 8:1-ARG1 11:1-ARG2 14:0-rel
+wsj/10/wsj_1078.mrg 4 10 cooperation 01 6:1-ARG0 8:0-Support 9:0-ARG2 10:0-rel 11:1-ARG1
+wsj/12/wsj_1201.mrg 19 6 cooperation 01 4:1-ARG0 6:0-rel
+wsj/13/wsj_1366.mrg 2 8 cooperation 01 2:0,4:0,6:0,7:0-Support 8:0-rel 9:1-ARG1
+wsj/16/wsj_1617.mrg 20 8 cooperation 01 8:0-rel 9:1-ARG0
+wsj/16/wsj_1657.mrg 35 13 cooperation 01 5:1*9:0-ARG0 11:0-Support 13:0-rel
+wsj/16/wsj_1682.mrg 21 0 cooperation 01 0:0-rel 1:0*6:1-ARG0 2:0-Support 3:1-ARG2
+wsj/16/wsj_1682.mrg 7 31 cooperation 01 10:2*19:0*27:0-ARG1 29:0-Support 30:0-ARG0 31:0-rel
+wsj/18/wsj_1850.mrg 18 9 cooperation 01 0:2-ARG0 6:0,10:0-Support 9:0-rel 10:0,13:0-Support 14:1-ARG2
+wsj/18/wsj_1850.mrg 19 5 cooperation 01 0:1*2:0-ARG0 4:0-Support 5:0-rel 6:1-ARG2
+wsj/18/wsj_1852.mrg 3 7 cooperation 01 7:0-rel 8:1-ARG0
+wsj/20/wsj_2041.mrg 57 12 cooperation 01 12:0-rel 13:1-ARG0
+wsj/20/wsj_2055.mrg 14 19 cooperation 01 5:1*13:0*15:0-ARG0 17:0,18:0,20:0-Support 19:0-rel 20:0-ARGM-ADV
+wsj/20/wsj_2065.mrg 2 13 cooperation 01 4:1-ARG0 6:0,7:1,10:1-ARG2 13:0-rel 14:1-ARG1
+wsj/20/wsj_2084.mrg 4 13 cooperation 01 8:1-ARG0 10:0,12:0-Support 13:0-rel 14:1-ARG2
+wsj/20/wsj_2086.mrg 36 27 cooperation 01 21:1-ARG0 25:0-Support 26:0-ARGM-MNR 27:0-rel
+wsj/21/wsj_2136.mrg 25 16 cooperation 01 8:1-ARG0 10:0,12:0,14:0,15:0-Support 16:0-rel 19:2-ARG1
+wsj/23/wsj_2338.mrg 25 11 cooperation 01 10:0-ARG0 11:0-rel
+wsj/23/wsj_2338.mrg 27 13 cooperation 01 12:0-ARG0 13:0-rel
+wsj/23/wsj_2362.mrg 23 13 cooperation 01 0:1*11:0-ARG0 12:0-Support 13:0-rel 14:1-ARG1
+wsj/23/wsj_2383.mrg 8 12 cooperation 01 12:0-rel 13:1-ARG0
+wsj/24/wsj_2431.mrg 31 18 cooperation 01 15:0-ARGM-MNR 16:0,17:0-ARG0 18:0-rel
+wsj/00/wsj_0051.mrg 19 12 debate 01 9:1-ARGM-MNR 11:0-ARG1 12:0-rel
+wsj/00/wsj_0098.mrg 7 24 debate 01 22:0-ARG0 24:0-rel
+wsj/01/wsj_0119.mrg 14 49 debate 01 48:0-ARG0 49:0-rel
+wsj/02/wsj_0231.mrg 41 18 debate 01 17:0-ARG0 18:0-rel 19:1-ARG1
+wsj/02/wsj_0250.mrg 2 35 debate 01 32:1-ARGM-TMP 35:0-rel 36:1-ARG1
+wsj/02/wsj_0275.mrg 1 3 debate 01 3:0-rel 4:1-ARG1
+wsj/02/wsj_0275.mrg 26 19 debate 01 19:0-rel 20:1-ARG1
+wsj/02/wsj_0280.mrg 0 8 debate 01 7:0-ARGM-MNR 8:0-rel
+wsj/02/wsj_0285.mrg 0 20 debate 01 20:0-rel 21:1-ARG1
+wsj/02/wsj_0285.mrg 2 0 debate 01 0:0-rel 1:1-ARG1
+wsj/02/wsj_0286.mrg 8 6 debate 01 1:1-ARG0 2:0,3:0,4:0-Support 5:0-ARGM-MNR 6:0-rel 7:1-ARG1
+wsj/02/wsj_0290.mrg 57 21 debate 01 18:1-ARGM-MNR 21:0-rel
+wsj/03/wsj_0322.mrg 19 14 debate 01 11:0,12:0,13:0-ARG1 14:0-rel
+wsj/03/wsj_0374.mrg 11 20 debate 01 20:0-rel 21:1-ARG0
+wsj/04/wsj_0406.mrg 3 8 debate 01 4:1-ARGM-TMP 7:0-ARGM-MNR 8:0-rel 9:1-ARG0
+wsj/04/wsj_0415.mrg 2 18 debate 01 0:1*13:0-ARG0 14:0-Support 17:0-ARGM-LOC 18:0-rel
+wsj/04/wsj_0426.mrg 31 26 debate 01 25:0-ARG1 26:0-rel
+wsj/04/wsj_0426.mrg 8 22 debate 01 22:0-rel 26:0-Support 27:1-ARG1
+wsj/04/wsj_0449.mrg 34 19 debate 01 18:0-ARGM-TMP 19:0-rel
+wsj/04/wsj_0464.mrg 16 28 debate 01 27:0-ARGM-TMP 28:0-rel 29:1-ARG1
+wsj/05/wsj_0525.mrg 11 9 debate 01 8:0-ARGM-TMP 9:0-rel 10:1-ARG1
+wsj/05/wsj_0591.mrg 17 13 debate 01 0:1*5:0*9:0-ARG0 8:0,10:0-Support 12:0-ARGM-MNR 13:0-rel 14:1-ARG1
+wsj/05/wsj_0592.mrg 40 15 debate 01 15:0-rel 16:1-ARG0
+wsj/07/wsj_0771.mrg 34 8 debate 01 6:0,7:0-ARG0 8:0-rel
+wsj/07/wsj_0783.mrg 5 4 debate 01 4:0-rel 5:1-ARG1
+wsj/08/wsj_0804.mrg 24 11 debate 01 6:1-ARG0 8:0-Support 10:0-ARGM-MNR 11:0-rel
+wsj/08/wsj_0804.mrg 25 42 debate 01 33:1*36:1*37:0*39:0-ARG0 41:0-Support 42:0-rel 43:2-ARGM-MNR
+wsj/08/wsj_0817.mrg 8 11 debate 01 9:0-ARGM-TMP 10:0-ARG1 11:0-rel
+wsj/08/wsj_0820.mrg 9 17 debate 01 0:1*10:0-ARG0 11:0-Support 16:0-ARGM-TMP 17:0-rel
+wsj/09/wsj_0946.mrg 23 11 debate 01 11:0-rel 12:1-ARG1
+wsj/09/wsj_0990.mrg 22 6 debate 01 5:0-ARG1 6:0-rel
+wsj/10/wsj_1034.mrg 12 29 debate 01 29:0-rel 30:1-ARG1
+wsj/11/wsj_1120.mrg 40 7 debate 01 7:0-rel 8:1-ARG0
+wsj/11/wsj_1143.mrg 30 8 debate 01 0:1-ARG1 4:0,6:0-Support 8:0-rel
+wsj/11/wsj_1172.mrg 10 13 debate 01 10:1-ARG0 13:0-rel
+wsj/12/wsj_1267.mrg 23 5 debate 01 1:0,2:0-Support 5:0-rel 7:1-ARG0
+wsj/12/wsj_1269.mrg 51 7 debate 01 6:0-ARGM-MNR 7:0-rel
+wsj/12/wsj_1296.mrg 16 7 debate 01 6:0-ARGM-LOC 7:0-rel 8:1-ARG1
+wsj/13/wsj_1307.mrg 17 12 debate 01 0:2-ARG0 10:0,13:0-Support 12:0-rel
+wsj/13/wsj_1307.mrg 36 8 debate 01 8:0-rel 9:1-ARGM-LOC
+wsj/13/wsj_1396.mrg 4 3 debate 01 1:0-ARGM-NEG 3:0-rel 5:1-ARG0
+wsj/14/wsj_1429.mrg 1 8 debate 01 8:0-rel 9:1-ARG0 14:1-ARG1
+wsj/14/wsj_1457.mrg 32 7 debate 01 0:1*5:0-ARG0 6:0-Support 7:0-rel
+wsj/14/wsj_1497.mrg 2 6 debate 01 4:0-ARGM-MNR 5:0-ARGM-LOC 6:0-rel 7:1-ARG1
+wsj/15/wsj_1567.mrg 38 7 debate 01 0:1-ARG1 3:0-Support 6:0-ARGM-MNR 7:0-rel 8:1-ARG0
+wsj/16/wsj_1603.mrg 56 23 debate 01 23:0-rel 24:1-ARG1
+wsj/16/wsj_1615.mrg 37 11 debate 01 7:1-ARG0 11:0-rel
+wsj/16/wsj_1615.mrg 42 13 debate 01 0:1*7:0-ARG0 8:0,11:0-Support 9:1-ARG1 13:0-rel
+wsj/16/wsj_1671.mrg 31 7 debate 01 1:1-ARG0 5:0,6:0-Support 7:0-rel
+wsj/16/wsj_1671.mrg 50 5 debate 01 4:0-ARG1 5:0-rel
+wsj/16/wsj_1671.mrg 51 5 debate 01 4:0-ARGM-MNR 5:0-rel
+wsj/19/wsj_1996.mrg 1 21 debate 01 19:1-ARG1 21:0-rel
+wsj/20/wsj_2044.mrg 33 12 debate 01 10:0,11:0-ARG1 12:0-rel
+wsj/20/wsj_2054.mrg 23 17 debate 01 8:2*13:0-ARG0 15:0-Support 17:0-rel
+wsj/20/wsj_2075.mrg 5 6 debate 01 5:0-ARGM-TMP 6:0-rel
+wsj/21/wsj_2149.mrg 17 40 debate 01 39:0-ARGM-MNR 40:0-rel 41:1-ARG0
+wsj/23/wsj_2300.mrg 54 16 debate 01 11:1-ARG0 13:0,14:0-Support 16:0-rel
+wsj/23/wsj_2300.mrg 79 13 debate 01 13:0-rel 14:1-ARG1
+wsj/23/wsj_2321.mrg 13 8 debate 01 7:0-ARGM-MNR 8:0-rel 9:1-ARGM-LOC 11:1-ARG1
+wsj/23/wsj_2384.mrg 20 7 debate 01 6:0-ARG1 7:0-rel
+wsj/24/wsj_2412.mrg 0 1 debate 01 1:0-rel 2:1-ARG1
+wsj/24/wsj_2417.mrg 8 6 debate 01 6:0-rel 7:1-ARG1
+wsj/24/wsj_2431.mrg 19 8 debate 01 6:0-ARG1 8:0-rel
+wsj/02/wsj_0242.mrg 1 16 destruction 01 16:0-rel 17:1-ARG1
+wsj/02/wsj_0290.mrg 25 12 destruction 01 10:0-ARGM-MNR 11:0-ARG1 12:0-rel
+wsj/04/wsj_0490.mrg 14 33 destruction 01 32:0-ARG1 33:0-rel
+wsj/13/wsj_1323.mrg 32 16 destruction 01 16:0-rel 17:1-ARG1
+wsj/14/wsj_1443.mrg 4 35 destruction 01 34:0-ARG1 35:0-rel
+wsj/16/wsj_1618.mrg 7 14 destruction 01 14:0-rel 15:1-ARG1 19:0-Support 21:1-ARG0
+wsj/16/wsj_1667.mrg 25 17 destruction 01 16:0-ARG1 17:0-rel
+wsj/18/wsj_1829.mrg 22 30 destruction 01 14:2*21:1*22:0*25:0-ARG1 24:0,26:0-Support 30:0-rel
+wsj/18/wsj_1857.mrg 40 16 destruction 01 13:0-ARGM-TMP 14:0,15:0-ARG1 16:0-rel
+wsj/19/wsj_1916.mrg 3 4 destruction 01 4:0-rel 5:1-ARG1
+wsj/00/wsj_0044.mrg 30 6 help 01 4:0-ARGM-MNR 5:0-ARG0 6:0-rel 7:1-ARG2
+wsj/00/wsj_0044.mrg 97 18 help 01 14:1-ARG0 15:0-Support 16:1-ARG2 17:0-ARGM-MNR 18:0-rel
+wsj/00/wsj_0083.mrg 2 17 help 01 1:1-ARG2 6:1-ARG0 8:0,11:0,12:0-Support 16:0-ARG1 17:0-rel
+wsj/00/wsj_0087.mrg 16 10 help 01 5:1-ARG2 8:0-Support 9:0-ARG0 10:0-rel
+wsj/02/wsj_0257.mrg 32 4 help 01 2:1-ARG2 3:0-Support 4:0-rel
+wsj/02/wsj_0280.mrg 48 4 help 01 3:0-ARG1 4:0-ARG0 4:0-rel
+wsj/02/wsj_0290.mrg 46 27 help 01 6:1*15:1*16:0*23:0-ARG0 25:0-Support 26:0-ARGM-EXT 27:0-rel 30:1-ARG2
+wsj/03/wsj_0300.mrg 15 5 help 01 1:1-ARG2 3:0-Support 4:0-ARGM-EXT 5:0-rel
+wsj/04/wsj_0450.mrg 41 13 help 01 0:1-ARG2 13:0-rel 14:1-ARG0 18:0,19:2-ARG1
+wsj/04/wsj_0453.mrg 27 33 help 01 27:1*29:1*30:0-ARG2 31:0-Support 33:0-rel
+wsj/04/wsj_0467.mrg 5 26 help 01 11:1*23:0-ARG2 13:0,14:1,17:1,28:2-ARG1 24:0-Support 26:0-ARG0 26:0-rel
+wsj/05/wsj_0564.mrg 50 34 help 01 33:0-ARGM-TMP 34:0-ARG0 34:0-rel
+wsj/05/wsj_0595.mrg 14 28 help 01 25:1-ARG2 26:0-Support 27:0-ARG0 28:0-rel 29:1-ARG1
+wsj/06/wsj_0687.mrg 22 5 help 01 1:1-ARG2 3:0-Support 4:0-ARG0 5:0-rel 6:1-ARG1
+wsj/06/wsj_0693.mrg 9 6 help 01 2:1,4:0-ARG1 6:0-rel 7:1-ARG0
+wsj/07/wsj_0748.mrg 11 12 help 01 7:1-ARG2 8:0-Support 10:1-ARGM-EXT 12:0-rel 13:2-ARG1-PRD
+wsj/07/wsj_0749.mrg 6 8 help 01 6:0,7:0-Support 8:0-rel 9:1-ARG2
+wsj/07/wsj_0761.mrg 29 7 help 01 7:0-rel 8:1-ARG2
+wsj/09/wsj_0936.mrg 32 19 help 01 17:1-ARG2 18:0-Support 19:0-rel 20:1-ARG0
+wsj/09/wsj_0942.mrg 12 24 help 01 16:1*21:0-ARG2 23:0-Support 24:0-rel
+wsj/10/wsj_1010.mrg 35 7 help 01 3:1-ARG2 5:0-Support 7:0-rel 8:1-ARG0
+wsj/11/wsj_1146.mrg 104 15 help 01 0:2*7:0-ARG2 14:0-Support 15:0-ARG0 15:0-rel
+wsj/11/wsj_1160.mrg 27 23 help 01 12:1-ARG2 15:0,17:0-Support 22:0-ARG0 23:0-rel
+wsj/12/wsj_1249.mrg 38 21 help 01 0:2-ARG2 20:0-Support 21:0-ARG0 21:0-rel
+wsj/12/wsj_1249.mrg 40 19 help 01 16:1-ARG2 17:0-Support 19:0-rel 20:1-ARG0
+wsj/13/wsj_1317.mrg 50 14 help 01 5:1*10:0-ARG2 12:0-Support 14:0-rel
+wsj/14/wsj_1411.mrg 33 32 help 01 9:1-ARG2 27:0,31:0-Support 28:1-ARG0 32:0-rel
+wsj/14/wsj_1424.mrg 27 13 help 01 7:1-ARG2 8:0,12:0-Support 9:1-ARG0 13:0-rel
+wsj/14/wsj_1446.mrg 12 30 help 01 17:1-ARG2 19:1,21:0,22:0,23:1-ARG1 30:0-rel 31:1-ARG0
+wsj/14/wsj_1457.mrg 41 41 help 01 34:1-ARG2 35:0,40:0-Support 36:1-ARG0 41:0-rel 42:1-ARG1
+wsj/14/wsj_1464.mrg 5 5 help 01 5:0-rel 6:1,11:0,12:2-ARG0 28:1-ARG2 32:2,35:1-ARG1-PRD
+wsj/14/wsj_1474.mrg 21 5 help 01 2:1-ARG2 3:0-Support 4:0-ARGM-EXT 5:0-rel
+wsj/14/wsj_1474.mrg 31 15 help 01 14:0-ARG0 15:0-rel
+wsj/14/wsj_1474.mrg 3 3 help 01 2:0-ARGM-EXT 3:0-rel 4:1-ARG0 8:1-ARG2 13:2-ARG1-PRD
+wsj/15/wsj_1549.mrg 32 8 help 01 0:1-ARG2 1:0,2:1,3:1-ARG1 8:0-rel 9:1-ARG0
+wsj/15/wsj_1582.mrg 13 32 help 01 30:1-ARG2 31:0-Support 32:0-rel
+wsj/16/wsj_1619.mrg 16 31 help 01 22:1*24:0-ARG2 26:0,27:1-ARG1 31:0-rel 32:1-ARG0
+wsj/16/wsj_1634.mrg 30 15 help 01 11:1-ARG2 12:0-Support 15:0-rel
+wsj/16/wsj_1657.mrg 16 17 help 01 2:1-ARG2 3:0,16:0-Support 4:1-ARG0 17:0-rel 18:1-ARG1
+wsj/16/wsj_1657.mrg 33 8 help 01 3:1-ARG2 7:0-Support 8:0-rel 9:2-ARG1-PRD
+wsj/16/wsj_1698.mrg 1 12 help 01 10:1-ARG2 11:0-Support 12:0-rel 13:2-ARG1-PRD
+wsj/17/wsj_1760.mrg 56 7 help 01 1:1-ARG2 4:0,5:0-Support 6:0-ARG0 7:0-rel
+wsj/17/wsj_1790.mrg 10 23 help 01 21:1-ARG2 22:0-Support 23:0-rel
+wsj/17/wsj_1790.mrg 8 6 help 01 0:1-ARG2 5:0-Support 6:0-rel
+wsj/18/wsj_1819.mrg 38 14 help 01 0:2-ARG2 4:0-Support 5:3-ARG1 14:0-rel
+wsj/18/wsj_1819.mrg 42 31 help 01 17:3*26:1-ARG1 25:0,28:0-Support 27:1-ARG2 31:0-rel
+wsj/18/wsj_1846.mrg 8 12 help 01 8:1-ARG2 11:0-Support 12:0-rel 13:1-ARG0 17:1-ARG1
+wsj/18/wsj_1852.mrg 22 4 help 01 0:1-ARG2 1:0-ARG1 4:0-rel 5:1-ARG0
+wsj/18/wsj_1852.mrg 28 33 help 01 26:1-ARG2 28:0-Support 33:0-rel
+wsj/18/wsj_1854.mrg 2 36 help 01 26:1*28:1*29:0-ARG2 31:0-Support 36:0-rel 37:1-ARG1
+wsj/18/wsj_1860.mrg 21 2 help 01 0:1-ARG0 2:0-rel
+wsj/18/wsj_1884.mrg 12 28 help 01 0:1-ARG2 20:1,21:0,22:1,23:1-ARG1 28:0-rel 29:1-ARG0
+wsj/18/wsj_1895.mrg 3 20 help 01 16:1-ARG2 18:0,19:0-Support 20:0-rel
+wsj/19/wsj_1920.mrg 2 9 help 01 8:0-ARG0 9:0-rel 10:0-Support 11:1-ARG2
+wsj/19/wsj_1935.mrg 46 10 help 01 0:0-ARG2 1:0-ARG1 10:0-rel 11:1-ARG0
+wsj/19/wsj_1936.mrg 19 14 help 01 0:1-ARG2 7:0,8:1-ARG1 10:1-ARG0 13:0-ARGM-EXT 14:0-rel
+wsj/20/wsj_2013.mrg 128 3 help 01 2:0-ARG0 3:0-rel 4:1-ARG2
+wsj/20/wsj_2048.mrg 6 13 help 01 12:0-ARG0-H0 12:0-ARG2-H1 13:0-rel
+wsj/20/wsj_2048.mrg 8 18 help 01 18:0-rel 24:1-ARG2
+wsj/21/wsj_2113.mrg 46 12 help 01 0:1-ARG2 2:1,3:0,4:1-ARG1 12:0-rel 13:1-ARG0
+wsj/22/wsj_2200.mrg 3 4 help 01 2:0-ARG0 4:0-ARG2-H0 4:0-rel-H1
+wsj/22/wsj_2223.mrg 19 13 help 01 0:1-ARG2 2:0-Support 12:0-ARG1 13:0-rel
+wsj/22/wsj_2224.mrg 9 2 help 01 1:0-ARGM-MNR 2:0-rel
+wsj/22/wsj_2265.mrg 41 9 help 01 1:2-ARG0 7:0-Support 8:0-ARGM-EXT 9:0-rel 10:1-ARG2
+wsj/22/wsj_2281.mrg 21 24 help 01 23:0-ARGM-TMP 24:0-ARG0 24:0-rel
+wsj/23/wsj_2320.mrg 12 2 help 01 2:0-rel 3:1-ARG0 7:2-ARG2 10:1-ARG1
+wsj/24/wsj_2446.mrg 32 9 help 01 7:0-Support 8:0-ARG0 9:0-rel 10:1-ARG2 16:1-ARG1
+wsj/00/wsj_0012.mrg 0 27 incentive 01 22:1-ARG0 24:0,28:0-Support 27:0-ARG3-REF 27:0-rel 28:0-Support 29:1-ARG1
+wsj/00/wsj_0012.mrg 1 18 incentive 01 18:0-ARG3-REF 18:0-rel 19:0,24:0-Support 21:1-ARG0 25:1-ARG1
+wsj/00/wsj_0044.mrg 130 11 incentive 01 11:0-rel 12:0-ARG3
+wsj/00/wsj_0047.mrg 21 24 incentive 01 1:3-ARG0 22:0-Support 24:0-ARG3-REF 24:0-rel 25:0,26:2-ARG1 32:1-ARG2-PRD
+wsj/01/wsj_0134.mrg 3 17 incentive 01 16:0-ARG2 17:0-ARG3-REF 17:0-rel 18:1-ARG1
+wsj/04/wsj_0445.mrg 61 20 incentive 01 0:1-ARG0 16:0-Support 17:1-ARG1 20:0-ARG3-REF 20:0-rel 21:2-ARG2-PRD
+wsj/05/wsj_0518.mrg 33 14 incentive 01 1:1-ARG0 10:0-Support 11:1-ARG1 13:0-ARGM-EXT 14:0-ARG3-REF 14:0-rel 15:2-ARG2-PRD
+wsj/05/wsj_0536.mrg 0 13 incentive 01 0:2-ARG0 7:0-Support 9:1,12:0-ARG3 13:0-rel 14:1-ARG2
+wsj/07/wsj_0756.mrg 41 4 incentive 01 0:1-ARG1 2:0-Support 3:0-ARGM-EXT 4:0-ARG3-REF 4:0-rel 5:2-ARG2-PRD
+wsj/07/wsj_0794.mrg 18 27 incentive 01 27:0-ARG3-REF 27:0-rel 28:1-ARG2
+wsj/07/wsj_0794.mrg 20 19 incentive 01 19:0-ARG3-REF 19:0-rel 22:1-ARG1 25:0-Support 27:2-ARG2-PRD
+wsj/07/wsj_0794.mrg 21 5 incentive 01 0:1-ARG1 3:0-Support 5:0-ARG3-REF 5:0-rel
+wsj/07/wsj_0797.mrg 0 15 incentive 01 8:1-ARG0 10:0-Support 11:1,14:0-ARG3 15:0-rel 16:1-ARG2
+wsj/07/wsj_0797.mrg 1 4 incentive 01 0:1-ARG0 2:0-Support 3:0-ARG3 4:0-rel 5:1-ARG2
+wsj/08/wsj_0818.mrg 11 6 incentive 01 0:1-ARG0 2:0-Support 5:0-ARGM-EXT 6:0-ARG3-REF 6:0-rel
+wsj/08/wsj_0818.mrg 36 16 incentive 01 15:0-ARG0 16:0-ARG3-REF 16:0-rel 17:0-Support
+wsj/09/wsj_0950.mrg 16 22 incentive 01 19:0,20:0,21:0-ARG1 22:0-ARG3-REF 22:0-rel
+wsj/09/wsj_0957.mrg 5 15 incentive 01 5:0-ARG0 8:0-Support 10:1-ARG2 14:0-ARG3 15:0-rel
+wsj/09/wsj_0975.mrg 26 12 incentive 01 5:1-ARG1 10:0-Support 12:0-ARG3-REF 12:0-rel 13:2-ARG2-PRD
+wsj/11/wsj_1131.mrg 33 5 incentive 01 2:1-ARG0 3:0-Support 4:0-ARGM-MNR 5:0-ARG3-REF 5:0-rel
+wsj/11/wsj_1131.mrg 39 2 incentive 01 0:1-ARG1 2:0-ARG3-REF 2:0-rel
+wsj/11/wsj_1131.mrg 52 12 incentive 01 12:0-ARG3-REF 12:0-rel 13:2-ARG2-PRD
+wsj/11/wsj_1135.mrg 16 19 incentive 01 18:0-ARG3 19:0-rel 20:1-ARG1
+wsj/11/wsj_1139.mrg 0 25 incentive 01 18:1-ARG0 20:0,22:0,23:0-Support 24:0-ARGM-EXT 25:0-ARG3-REF 25:0-rel 26:1-ARGM-TMP
+wsj/11/wsj_1139.mrg 2 20 incentive 01 9:1*13:1*14:0-ARG0 15:0-Support 17:0,18:0,19:0-ARG1 20:0-ARG3-REF 20:0-rel
+wsj/11/wsj_1149.mrg 2 20 incentive 01 14:1-ARG0 17:0-Support 20:0-ARG3-REF 20:0-rel 21:0,22:1-ARG2 23:1-ARG1
+wsj/12/wsj_1217.mrg 8 17 incentive 01 10:1-ARG0 12:0,15:0-Support 16:0-ARGM-EXT 17:0-ARG3-REF 17:0-rel
+wsj/12/wsj_1253.mrg 11 22 incentive 01 8:1*18:0-ARG0 19:0-Support 22:0-ARG3-REF 22:0-rel
+wsj/12/wsj_1284.mrg 17 14 incentive 01 11:0,12:0,13:0-ARG2 14:0-ARG3-REF 14:0-rel
+wsj/12/wsj_1294.mrg 2 28 incentive 01 22:1*23:0*24:0-ARG0 26:0-Support 27:0-ARG3 28:0-rel
+wsj/13/wsj_1317.mrg 21 28 incentive 01 11:1*25:0-ARG0 26:0-Support 28:0-ARG3-REF 28:0-rel
+wsj/13/wsj_1337.mrg 14 11 incentive 01 3:1-ARG1 5:0,6:1-ARG2 8:0,9:0-Support 11:0-ARG3-REF 11:0-rel
+wsj/14/wsj_1436.mrg 41 12 incentive 01 11:0-ARG3 12:0-rel 18:2-ARG2-PRD
+wsj/16/wsj_1669.mrg 21 39 incentive 01 38:0-ARG3 39:0-rel 40:1-ARG2
+wsj/16/wsj_1695.mrg 12 26 incentive 01 5:2-ARG1 24:0-Support 26:0-ARG3-REF 26:0-rel 29:1-ARGM-LOC 33:2-ARG2-PRD
+wsj/16/wsj_1695.mrg 15 10 incentive 01 7:1-ARG1 10:0-ARG3-REF 10:0-rel 12:1-ARGM-LOC 17:2-ARG2-PRD
+wsj/16/wsj_1695.mrg 29 48 incentive 01 39:2-ARG1 44:0-Support 48:0-ARG3-REF 48:0-rel 49:2-ARG2-PRD
+wsj/17/wsj_1744.mrg 6 22 incentive 01 22:0-ARG3-REF 22:0-rel 23:1-ARG2
+wsj/17/wsj_1744.mrg 7 1 incentive 01 1:0-ARG3-REF 1:0-rel 2:0-Support 3:1-ARG2
+wsj/18/wsj_1856.mrg 64 29 incentive 01 28:0-ARG2 29:0-ARG3-REF 29:0-rel
+wsj/19/wsj_1935.mrg 23 30 incentive 01 26:1-ARG1 28:0-Support 30:0-ARG3-REF 30:0-rel 31:2-ARG2-PRD
+wsj/20/wsj_2022.mrg 11 14 incentive 01 4:1*6:0-ARG0 8:0,9:0,10:0-Support 11:0,12:0,13:0-ARG1 14:0-ARG3-REF 14:0-rel
+wsj/20/wsj_2045.mrg 17 17 incentive 01 16:0-ARGM-EXT 17:0-ARG3-REF 17:0-rel 18:1-ARG1 24:2-ARG2-PRD
+wsj/22/wsj_2210.mrg 31 21 incentive 01 20:0-ARGM-EXT 21:0-ARG3-REF 21:0-rel 22:0,23:1-ARG1 24:1-ARG2-PRD
+wsj/22/wsj_2223.mrg 20 3 incentive 01 0:1-ARG0 1:0-Support 2:0-ARG3 3:0-rel
+wsj/22/wsj_2227.mrg 14 83 incentive 01 0:1*3:0-ARG0 78:0-Support 82:0-ARG3 83:0-rel 84:1-ARG2
+wsj/22/wsj_2229.mrg 28 35 incentive 01 21:2*31:0-ARG0 32:0-Support 34:0-ARGM-MNR 35:0-ARG3-REF 35:0-rel 38:1-ARG2
+wsj/24/wsj_2402.mrg 37 5 incentive 01 0:1-ARG0 2:0-Support 5:0-ARG3-REF 5:0-rel 6:0,7:2-ARG1 13:1-ARG2-PRD
+wsj/24/wsj_2404.mrg 16 23 incentive 01 22:0-ARG1 23:0-ARG3-REF 23:0-rel 25:1-ARG0 26:0-Support
+wsj/24/wsj_2404.mrg 3 4 incentive 01 4:0-ARG3-REF 4:0-rel 5:2-ARG2-PRD
+wsj/24/wsj_2404.mrg 7 9 incentive 01 0:2-ARG0 8:0-Support 9:0-ARG3-REF 9:0-rel 10:1-ARG2
+wsj/24/wsj_2416.mrg 6 11 incentive 01 3:1*7:0-ARG0 9:0-Support 10:0-ARGM-TMP 11:0-ARG3-REF 11:0-rel 12:1-ARG1
+wsj/24/wsj_2451.mrg 21 9 incentive 01 1:1*5:0-ARG1 7:0-Support 9:0-ARG3-REF 9:0-rel 10:2-ARG2-PRD
+wsj/05/wsj_0568.mrg 6 22 layoff 01 22:0-rel 23:1-ARG1
+wsj/07/wsj_0725.mrg 6 14 layoff 01 13:0-ARGM-MNR 14:0-rel
+wsj/07/wsj_0759.mrg 15 15 layoff 01 3:1*6:0-ARG0 8:0,14:0-Support 15:0-rel
+wsj/11/wsj_1110.mrg 3 8 layoff 01 7:0-ARGM-MNR 8:0-rel 9:1-ARG1
+wsj/12/wsj_1226.mrg 28 15 layoff 01 15:0-rel 16:1-ARG1
+wsj/23/wsj_2338.mrg 9 38 layoff 01 37:0-ARG0 38:0-rel
+wsj/23/wsj_2373.mrg 2 15 layoff 01 15:0-rel 16:1-ARG0
+wsj/01/wsj_0112.mrg 21 16 nominee 01 9:0-Support 10:0,11:1-ARG2 16:0-ARG1 16:0-rel
+wsj/02/wsj_0276.mrg 2 11 nominee 01 4:0,7:0,8:0-Support 9:0,10:0-ARG0 11:0-ARG1 11:0-rel 12:1-ARG2
+wsj/02/wsj_0276.mrg 4 23 nominee 01 22:0-ARG0 23:0-ARG1 23:0-rel
+wsj/05/wsj_0596.mrg 20 14 nominee 01 11:0-ARG0 12:0,13:0-Support 14:0-ARG1 14:0-rel 15:1-ARG2
+wsj/11/wsj_1137.mrg 22 11 nominee 01 9:0-ARG0 10:0-ARG2 11:0-ARG1 11:0-rel
+wsj/12/wsj_1299.mrg 0 29 nominee 01 28:0-ARGM-ADV 29:0-ARG1 29:0-rel
+wsj/16/wsj_1682.mrg 31 34 nominee 01 31:0-ARGM-TMP 32:0,33:0-ARG2 34:0-ARG1 34:0-rel
+wsj/24/wsj_2416.mrg 13 7 nominee 01 0:1-ARG0 3:0-Support 5:0,6:0-ARG2 7:0-ARG1 7:0-rel
+wsj/01/wsj_0136.mrg 5 4 start-up 01 1:0,2:0-Support 4:0-rel 5:1-ARG1 10:1-ARG0
+wsj/03/wsj_0328.mrg 18 27 start-up 01 19:0,25:0-Support 20:1-ARG0 27:0-rel 28:1-ARG1
+wsj/07/wsj_0700.mrg 44 9 start-up 01 9:0-rel 10:1-ARG1
+wsj/09/wsj_0975.mrg 7 19 start-up 01 15:1-ARGM-LOC 19:0-ARG1-REF 19:0-rel
+wsj/14/wsj_1445.mrg 0 32 start-up 01 31:0-ARGM-MNR 32:0-rel 33:0,34:0-ARG1
+wsj/14/wsj_1445.mrg 8 13 start-up 01 11:0-ARGM-TMP 12:0-ARG1 13:0-rel
+wsj/16/wsj_1621.mrg 15 42 start-up 01 42:0-rel 43:0,44:0-Support 46:1-ARG1
+wsj/20/wsj_2044.mrg 21 27 start-up 01 27:0-rel 28:1-ARG1
+wsj/21/wsj_2148.mrg 9 26 start-up 01 26:0-rel 30:0-Support 31:1-ARG1
+wsj/01/wsj_0111.mrg 16 3 successor 01 2:0-ARG1 3:0-ARG0 3:0-rel
+wsj/01/wsj_0111.mrg 6 14 successor 01 13:0-ARG1 14:0-ARG0 14:0-rel
+wsj/01/wsj_0114.mrg 24 3 successor 01 2:0-ARG1 3:0-ARG0 3:0-rel
+wsj/01/wsj_0158.mrg 3 1 successor 01 0:0-ARGM-NEG 1:0-ARG0 1:0-rel
+wsj/03/wsj_0328.mrg 18 34 successor 01 34:0-ARG0 34:0-rel 35:1-ARG1
+wsj/05/wsj_0553.mrg 28 25 successor 01 24:0-ARG1 25:0-ARG0 25:0-rel
+wsj/05/wsj_0586.mrg 12 34 successor 01 31:1-ARG1 34:0-ARG0 34:0-rel
+wsj/06/wsj_0684.mrg 2 9 successor 01 9:0-ARG0 9:0-rel 10:1-ARG1
+wsj/09/wsj_0948.mrg 4 7 successor 01 7:0-ARG0 7:0-rel 8:1-ARG1
+wsj/09/wsj_0990.mrg 43 6 successor 01 3:1-ARG1 6:0-ARG0 6:0-rel
+wsj/10/wsj_1065.mrg 45 16 successor 01 16:0-ARG0 16:0-rel 17:1-ARG1
+wsj/10/wsj_1099.mrg 1 7 successor 01 1:1-ARG1 2:0,6:0-Support 7:0-ARG0 7:0-rel
+wsj/11/wsj_1154.mrg 39 32 successor 01 31:0-ARG1 32:0-ARG0 32:0-rel
+wsj/12/wsj_1238.mrg 3 10 successor 01 10:0-ARG0 10:0-rel 11:1-ARG1
+wsj/12/wsj_1272.mrg 53 9 successor 01 9:0-ARG0 9:0-rel 10:0-ARG1
+wsj/13/wsj_1317.mrg 30 15 successor 01 14:0-ARG1 15:0-ARG0 15:0-rel 16:1-ARGM-LOC
+wsj/13/wsj_1317.mrg 35 34 successor 01 33:0-ARG1 34:0-ARG0 34:0-rel
+wsj/14/wsj_1478.mrg 1 11 successor 01 11:0-ARG0 11:0-rel 12:1-ARG1
+wsj/15/wsj_1507.mrg 9 1 successor 01 0:0-ARG1 1:0-ARG0 1:0-rel
+wsj/18/wsj_1826.mrg 6 14 successor 01 13:0-ARG1 14:0-ARG0 14:0-rel
+wsj/18/wsj_1875.mrg 34 35 successor 01 35:0-ARG0 35:0-rel 36:1-ARG1
+wsj/18/wsj_1875.mrg 61 10 successor 01 9:0-ARGM-ADV 10:0-ARG0 10:0-rel 11:1-ARG1
+wsj/20/wsj_2041.mrg 25 23 successor 01 22:0-ARG1 23:0-ARG0 23:0-rel
+wsj/20/wsj_2044.mrg 21 34 successor 01 34:0-ARG0 34:0-rel 35:1-ARG1
+wsj/20/wsj_2049.mrg 4 22 successor 01 22:0-ARG0 22:0-rel 24:1-ARG1
+wsj/20/wsj_2053.mrg 1 6 successor 01 2:1-ARG1 6:0-ARG0 6:0-rel
+wsj/23/wsj_2328.mrg 6 17 successor 01 17:0-ARG0 17:0-rel 19:1-ARG1
+wsj/24/wsj_2446.mrg 11 7 successor 01 7:0-ARG0 7:0-rel 8:1-ARG1
+wsj/01/wsj_0114.mrg 19 5 survivor 01 5:0-ARG0 5:0-rel 6:1-ARGM-TMP
+wsj/09/wsj_0909.mrg 94 2 survivor 01 1:0-ARG1 2:0-ARG0 2:0-rel
+wsj/13/wsj_1353.mrg 7 17 survivor 01 16:0-ARG1 17:0-ARG0 17:0-rel
+wsj/19/wsj_1924.mrg 1 14 survivor 01 14:0-ARG0 14:0-rel 15:1-ARG1
+wsj/19/wsj_1924.mrg 2 11 survivor 01 11:0-ARG0 11:0-rel 17:1-ARG1
+wsj/23/wsj_2347.mrg 9 11 survivor 02 11:0-ARG0 11:0-rel 12:1-ARG1

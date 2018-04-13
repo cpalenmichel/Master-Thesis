@@ -21,6 +21,7 @@ class Document:
         self.coref_to_ISoffset = {}
         self.mark2ment_map = {}
         self.gold_clusters = defaultdict(list)
+        self.filename = None
 
     def get_doc_id(self, doc_id):
         self.docID = doc_id
@@ -83,8 +84,8 @@ class Document:
                     m.set_bridge_attributes(markable)
                     found = True
             if not found:
-                new_mention = Mention(self.sentences[sent_index].words[start:end +1], start, end, sent_index,
-                                      self.sentences[sent_index].tree)
+                new_mention = Mention(self.sentences[sent_index].words[start:end +1], start, end, sent_index)#,
+                                      #self.sentences[sent_index].tree) TODO FASTER?
                 new_mention.set_bridge_attributes(markable)
                 self.sentences[sent_index].mentions.append(new_mention)
         self.make_mark2ment_map()

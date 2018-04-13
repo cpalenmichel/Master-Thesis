@@ -1,0 +1,73 @@
+********************************
+Short list
+
+0. Use export or related function to remove undesirable parts of NOMLEX-PLUS
+   and COMNOM
+1. Do new printout based on GLARF 97.5
+2. Proofread specs for format and spelling (and missing stuff? ***)
+   -- make sure that pdf looks reasonable -- fix spacing where needed
+2. Finish other-dictionary section
+   -- for each dictionary, catalog features and their interpretation
+   -- or determine that this is already covered in specs and
+      this additional manual is unnecessary
+4. Update and fix up readmes
+5. email Chris or someone else at LDC
+   -- ask about: 1. COMNOM
+		 2. WSJ files
+		 3. distributing printed version of NomBank
+6. update/fix website and download stuff
+
+**********************
+
+0. *** Add prefix to nombank entries, e.g., wsj_0001 --> wsj/01/wsj_0001 ** done **
+0a. rerun 120 reg97, etc. -- for changes ** running **
+1. edit READMEs
+   a. include note that GENDESCR is in dict, but not frame file
+      -- should I change this?
+   b. add description of changes
+   c. mention files to be distributed via the LDC
+      i. COMNOM
+      ii. wsj files
+      iii. printed out version of nombank
+   d. mention 3rd version of NOMLEX-plus
+   e. mention "brethren"
+2. finalize specs (esp. dictionary specs)
+3. updated NOMLEX-PLUS (2 versions)
+	   i. recreate various GLARF databases ** done **
+	   ii. add stuff to NOMLEX-2007d-clean
+               (both tr and regular)        *** done ***
+	   iii. compare to original NOMLEX-2007d ** done **
+	   iv. add :SEMI-AUTOMATIC where appropriate ** done **
+4. update website
+5. COMNOM update
+   i. create a version of current COMNOM
+      in which only nouns are reset to
+      COMNOM-2005b-utf8 -- see handy.lisp -- noun-only-overwrite -- debug
+      -- differences
+	 a. crusher + fives (latter is duplicate entry)
+	 b. COUNTABLE, FEATURES, :PLURAL *** fixed **
+	   -- differences in plurals -- need to check/verify, potentially update
+	    with comlex morph?
+	    -- should I do a general FEATURES check more automatically?
+	 c. noun subcat (sentential and PP) -- handle in merge-comlex-nomlex???
+	 d. entry for midnight -- (see below)*** fixed **
+	 e. check if extra plurals are missing in NOMBANK 
+   -- note COMNOM/COMLEX vs. Nombank -- latter assumes "brethren" is a separate word,
+	   not just the plural of "brother"
+   ii. merge-comlex-nomlex (see merge-in-preps)
+       based on COMNOM-2005b and most current NOMLEX
+       -- run with tr version and see if it is different
+       -- compare final result with COMNOM-2007a
+       -- *** done ***
+
+notes differences between COMNOMs
+COMNOM-2007 vs. COMNOM-2007a -- character encoding, latter is utf8
+
+COMNOM-2007 vs. CONMOM-2006 -- minor changes that are OK
+	    -- mostly adverb fixes
+	    -- plus one update of the entry for "midnight"
+
+COMNOM-2006 vs. COMNOM-2005c-all -- noun subc mostly
+
+COMNOM-2005c-all vs. COMNOM-2005b -- same
+

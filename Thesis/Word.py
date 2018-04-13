@@ -24,7 +24,7 @@ class Word():
         self.mention = None
         self.cluster_id = '-'
         self.name_ent = None
-
+        self.markable_id = None
 
     def set_entries(self, entries):
         self.file_name = entries[0]

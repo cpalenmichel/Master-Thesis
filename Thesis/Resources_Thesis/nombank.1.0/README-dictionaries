@@ -1,0 +1,74 @@
+The detailed specs for these dictionaries are found in the documents
+in the DOCS subdirectory. The frames/* files and nombank-morph.dict
+are described in DOCS/nombank-specs-2007.pdf and the other dictionaries
+are descrbied in DOCS/those-other-nombank-dictionaries.pdf
+
+I. Noun Lexicons
+
+Each word in NomBank has (at least) three types of lexical
+entries. Each of these is represented in this sample release.
+
+1. NOMLEX-PLUS lexical entries and frame lexical entries are described
+in the NomBank specs and on the NOMLEX website. It includes all the
+entries of NOMLEX plus some semi-automatically (:SEMI-AUTOMATIC T)
+generated entries based on various defaults and lists of
+categories. 
+
+I have created 3 versions of NOMLEX-PLUS: 
+
+  A. NOMLEX-plus.1.0 (includes some information automatically
+     extracted from annotation)
+	
+  B. NOMLEX-plus-training.1.0 (includes automatically extracted info
+     from sections 2 to 21 only for those who divide the treebank into
+     training, test and development corpora)
+      
+  C. NOMLEX-plus-clean.1.0 (includes no automatically extracted corpus
+     information)
+
+2. The frame files (frames/*.xml) are essentially in the same format
+as the PropBank frame files. The most important difference is the
+presence of a "source" attribute and noun argument roles with verb
+argument roles. For example, the noun sense DATE.02 is linked to the
+DATE.01 sense of the verb. Furthermore, the ARG2 role of the noun
+sense is linked to the verbs ARG1 role. (The default is that all of
+the role numbers line up so that ARG1 for the noun is the same as ARG1
+for the verb.) A dtd file (frames/frameset.dtd) is provided. It is
+very similar to PropBank's dtd except for the addition of the feature
+"source" and "GENDESCR". Within a roleset XML tag, source indicates an
+associated verb (if any). Within a role XML tag, source indicates the
+associated role in PropBank -- this is only used if the role number
+differs between NomBank and PropBank.  
+
+Also, we have provided a lispified version of the frames as
+nombank-dict. This also includes an added automatically generated
+GENDESCR feature designed to minimize the number of distinct DESCR
+labels used. It may be possible to use these as noun-neutral theta
+roles. 
+
+3. The morphology file (nombank-morph.dict) has a very simple
+format. The first item in each line is the base form of the
+noun. Every other item on the line represents a possible morphological
+form (for this corpus). In addition to combining plural nouns with
+their singular forms, this also combines some hyphenated items and
+compound nouns with simpler base forms.
+
+II. Other Lexicons
+
+I have provided ADJADV, a lexicon for assigning adverbial classes to
+adjectives and NOMADV, a lexicon for assigning adverbial classes to
+nouns, occurring in premodifier position.
+
+I have also automatically extended COMLEX Syntax to include additional
+noun subcategorization. Heuristics were used to derive noun
+subcategorization from NOMLEX-PLUS and then add it to COMLEX. The
+resulting dictionary is called COMNOM. As the Linguistic Data
+Consortium (LDC) owns the license for COMLEX, I will need to make
+arrangements with them to distribute COMNOM.
+
+III. Other Notes
+
+1/10th and the percent sign (%) have presented special problems for
+processing. Consequently the dictionaries sometimes use other names
+for these (perc-sign, 1-slash-10th and ONESLASHONEZEROTH).
+

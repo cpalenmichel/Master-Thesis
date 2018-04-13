@@ -1,0 +1,67 @@
+This is a definition of NomBank's data structure. Note that the format
+of NomBank is identical to PropBank except for the fourth through
+sixth fields.
+
+First field: Penn Treebank II file
+
+Second field: Tree number in file - starting with 0.
+
+Third field: Token number in tree - starting with 0 and including
+empty categories (gaps).
+
+Fourth field: Base form of word - includes regularization for
+inflectional morphology and hyphenation (as determined by the current
+nombank-morph.dict)
+
+Fifth field: Sense Number (see frame file)
+
+Sixth and subsequent fields: Each item is piece of the NomBank
+Proposition. Each piece consists of a pointer and a feature label
+separated by a hyphen. 
+
+A pointer can consist of: 
+
+(a) A simple pointer: two numbers separated by a colon, the first
+indicating a token position (as above). The second indicates number of
+levels in the tree above the token level -- 0 indicates a token, 1
+indicates a phrase dominated by a token, etc. For example, a phrase
+"the book" may be represented by 2:1 if "the is the third token and
+"the book" is one level up from "the".
+
+(b) A concatenated pointer: a list of pointers separated by
+commas. This can indicate that while these items do not form a
+constituent in the Penn Treebank, they do actually form a
+constituent. However, there are also some unusual instances where
+disjoint constituents share an argument position. For example, consider
+"the George Bush speech", where "the" is the first token (position
+0). Here "George Bush" is the ARG0 of "speech". The piece of the
+proposition representing this would be: "1:0,2:0-ARG0". The
+concatenated pointer is also used for listing support items when they
+form a support chain. For example, in "John made a series of
+mistakes", "made", "series" and "of" form a chain of lexical items
+that link "John" as the ARG0 of "mistakes". This use of this notation
+is not intended to suggest that the support items form a
+constituent. Rather we are using the same notation to represent
+distinct phenomena (support chains and concatenation) in two different
+contexts. (See the specifications for details.)
+
+(c) A pointer chain: a list of pointers separated by asterisks. This
+indicates a coreference chain of empty categories (gaps), relative
+pronouns and regular constituents. This is normally used if an empty
+category is local in argument structure. It is a way of stating the
+path back to the real argument. 
+
+A feature label can consist of one or more parts separated by
+hyphens. The initial part of the label indicates whether the item is a
+REL (the predicate), SUPPORT (a support item), ARGM (an adjunct) or an
+argument (ARG0 through ARG9). Each subsequent piece of the label is a
+function tag. A full list of these is given in the specifications. For
+example, ARGM-TMP is a temporal adjunct where TMP indicates the type
+of the adjunct. There are also a special set of function tags called
+hyphen tags {H0, H1, H2, H3, H4, H5, H6, H7, H8, H9}. These are used
+to divide items that are a single token but containing hyphens "-"
+and/or forward slashes "/". H0 signifies the segment before the first
+hyphen or slash and Hn signifies the segment after the nth hyphen or
+slash. For example, ARG1-H0 can mean that the first segment ("auto")
+of "auto-salesman" is marked with an ARG1 role. REL-H1 may mean that
+the second segment ("salesman") is the main predicate.
